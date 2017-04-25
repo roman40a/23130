@@ -1,0 +1,2004 @@
+<?xml version="1.0" standalone="no"?>
+<svg viewBox="0 0 1024 768" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-linecap="round" stroke-linejoin="round" fill-rule="evenodd" xml:space="preserve" >
+<defs >
+<clipPath id="clipId0" >
+<path d="M0,768 1024,768 1024,0 0,0 z" />
+</clipPath>
+<font id="romand" >
+<font-face font-family="romand.shx" />
+<glyph unicode="0" d="M11,0 14,1 16,4 17,9 17,12 16,17 14,20 11,21 9,21 6,20 4,17 3,12 3,9 4,4 6,1 9,0 11,0 " horiz-adv-x="20" vert-adv-y="34" />
+<glyph unicode="1" d="M6,17 8,18 11,21 11,0 " horiz-adv-x="20" vert-adv-y="34" />
+<glyph unicode="5" d="M3,4 4,2 5,1 8,0 11,0 14,1 16,3 17,6 17,8 16,11 14,13 11,14 8,14 5,13 4,12 5,21 15,21 " horiz-adv-x="20" vert-adv-y="34" />
+<glyph unicode="2" d="M4,16 4,17 5,19 6,20 8,21 12,21 14,20 15,19 16,17 16,15 15,13 13,10 3,0 17,0 " horiz-adv-x="20" vert-adv-y="34" />
+<glyph unicode="3" d="M5,21 16,21 10,13 13,13 15,12 16,11 17,8 17,6 16,3 14,1 11,0 8,0 5,1 4,2 3,4 " horiz-adv-x="20" vert-adv-y="34" />
+<glyph unicode="4" d="M13,0 13,21 3,7 18,7 " horiz-adv-x="20" vert-adv-y="34" />
+<glyph unicode="6" d="M16,18 15,20 12,21 10,21 7,20 5,17 4,12 4,7 5,3 7,1 10,0 11,0 14,1 16,3 17,6 17,7 16,10 14,12 11,13 10,13 7,12 5,10 4,7 " horiz-adv-x="20" vert-adv-y="34" />
+<glyph unicode="7" d="M7,0 17,21 3,21 " horiz-adv-x="20" vert-adv-y="34" />
+<glyph unicode="8" d="M8,0 12,0 15,1 16,2 17,4 17,7 16,9 14,11 11,12 7,13 5,14 4,16 4,18 5,20 8,21 12,21 15,20 16,18 16,16 15,14 13,13 9,12 6,11 4,9 3,7 3,4 4,2 5,1 8,0 " horiz-adv-x="20" vert-adv-y="34" />
+<glyph unicode="9" d="M4,3 5,1 8,0 10,0 13,1 15,4 16,9 16,14 15,18 13,20 10,21 9,21 6,20 4,18 3,15 3,14 4,11 6,9 9,8 10,8 13,9 15,11 16,14 " horiz-adv-x="20" vert-adv-y="34" />
+<glyph unicode="-" d="M4,9 22,9 " horiz-adv-x="26" vert-adv-y="34" />
+<glyph unicode="+" d="M13,18 13,0 M4,9 22,9 " horiz-adv-x="26" vert-adv-y="34" />
+</font>
+</defs>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.1" />
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="38.2221,400.839 38.2221,403.971 " />
+<polyline points="42.9192,401.426 42.9192,403.383 " />
+<polyline points="47.6164,401.426 47.6164,403.383 " />
+<polyline points="52.3135,401.426 52.3135,403.383 " />
+<polyline points="57.0107,401.426 57.0107,403.383 " />
+<polyline points="10.0392,402.405 667.64,402.405 " />
+<polyline points="677.523,402.405 1003.89,402.405 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(255,127,0)" stroke-width="0.35" >
+<polyline points="99.285,367.959 113.376,367.959 " stroke-dasharray="0.039769,0.019885" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 37.0292 409.4)" font-size="1.28571" style="font-family: romand" >0</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="61.7078,400.839 61.7078,403.971 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 82.6287 409.4)" font-size="1.28571" style="font-family: romand" >10</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="66.405,401.426 66.405,403.383 " />
+<polyline points="71.1021,401.426 71.1021,403.383 " />
+<polyline points="75.7992,401.426 75.7992,403.383 " />
+<polyline points="80.4964,401.426 80.4964,403.383 " />
+<polyline points="85.1935,400.839 85.1935,403.971 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 106.114 409.4)" font-size="1.28571" style="font-family: romand" >15</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="89.8907,401.426 89.8907,403.383 " />
+<polyline points="94.5878,401.426 94.5878,403.383 " />
+<polyline points="99.285,401.426 99.285,403.383 " />
+<polyline points="103.982,401.426 103.982,403.383 " />
+<polyline points="108.679,400.839 108.679,403.971 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 129.779 409.4)" font-size="1.28571" style="font-family: romand" >20</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="113.376,401.426 113.376,403.383 " />
+<polyline points="118.074,401.426 118.074,403.383 " />
+<polyline points="122.771,401.426 122.771,403.383 " />
+<polyline points="127.468,401.426 127.468,403.383 " />
+<polyline points="132.165,400.839 132.165,403.971 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 153.265 409.4)" font-size="1.28571" style="font-family: romand" >25</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="136.862,401.426 136.862,403.383 " />
+<polyline points="141.559,401.426 141.559,403.383 " />
+<polyline points="146.256,401.426 146.256,403.383 " />
+<polyline points="150.954,401.426 150.954,403.383 " />
+<polyline points="155.651,400.839 155.651,403.971 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 176.751 409.4)" font-size="1.28571" style="font-family: romand" >30</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="179.136,400.839 179.136,403.971 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 200.236 409.4)" font-size="1.28571" style="font-family: romand" >35</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="183.834,401.426 183.834,403.383 " />
+<polyline points="188.531,401.426 188.531,403.383 " />
+<polyline points="193.228,401.426 193.228,403.383 " />
+<polyline points="197.925,401.426 197.925,403.383 " />
+<polyline points="202.622,400.839 202.622,403.971 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 223.722 409.4)" font-size="1.28571" style="font-family: romand" >40</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="207.319,401.426 207.319,403.383 " />
+<polyline points="212.016,401.426 212.016,403.383 " />
+<polyline points="216.714,401.426 216.714,403.383 " />
+<polyline points="221.411,401.426 221.411,403.383 " />
+<polyline points="226.108,400.839 226.108,403.971 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 247.208 409.4)" font-size="1.28571" style="font-family: romand" >45</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="230.805,401.426 230.805,403.383 " />
+<polyline points="235.502,401.426 235.502,403.383 " />
+<polyline points="240.199,401.426 240.199,403.383 " />
+<polyline points="244.896,401.426 244.896,403.383 " />
+<polyline points="249.594,400.839 249.594,403.971 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 270.694 409.4)" font-size="1.28571" style="font-family: romand" >50</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="160.348,401.426 160.348,403.383 " />
+<polyline points="165.045,401.426 165.045,403.383 " />
+<polyline points="169.742,401.426 169.742,403.383 " />
+<polyline points="174.439,401.426 174.439,403.383 " />
+<polyline points="254.291,401.426 254.291,403.383 " />
+<polyline points="258.988,401.426 258.988,403.383 " />
+<polyline points="263.685,401.426 263.685,403.383 " />
+<polyline points="268.382,401.426 268.382,403.383 " />
+<polyline points="273.079,400.839 273.079,403.971 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 294.179 409.4)" font-size="1.28571" style="font-family: romand" >55</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="277.776,401.426 277.776,403.383 " />
+<polyline points="282.474,401.426 282.474,403.383 " />
+<polyline points="287.171,401.426 287.171,403.383 " />
+<polyline points="291.868,401.426 291.868,403.383 " />
+<polyline points="296.565,400.839 296.565,403.971 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 317.605 409.4)" font-size="1.28571" style="font-family: romand" >60</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="301.262,401.426 301.262,403.383 " />
+<polyline points="305.959,401.426 305.959,403.383 " />
+<polyline points="310.657,401.426 310.657,403.383 " />
+<polyline points="315.354,401.426 315.354,403.383 " />
+<polyline points="320.051,400.839 320.051,403.971 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 341.091 409.4)" font-size="1.28571" style="font-family: romand" >65</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="324.748,401.426 324.748,403.383 " />
+<polyline points="329.445,401.426 329.445,403.383 " />
+<polyline points="334.142,401.426 334.142,403.383 " />
+<polyline points="338.839,401.426 338.839,403.383 " />
+<polyline points="343.537,400.839 343.537,403.971 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 364.636 409.4)" font-size="1.28571" style="font-family: romand" >70</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="367.022,400.839 367.022,403.971 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 388.122 409.4)" font-size="1.28571" style="font-family: romand" >75</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="371.719,401.426 371.719,403.383 " />
+<polyline points="376.417,401.426 376.417,403.383 " />
+<polyline points="381.114,401.426 381.114,403.383 " />
+<polyline points="385.811,401.426 385.811,403.383 " />
+<polyline points="390.508,400.839 390.508,403.971 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 411.608 409.4)" font-size="1.28571" style="font-family: romand" >80</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="395.205,401.426 395.205,403.383 " />
+<polyline points="399.902,401.426 399.902,403.383 " />
+<polyline points="404.599,401.426 404.599,403.383 " />
+<polyline points="409.297,401.426 409.297,403.383 " />
+<polyline points="413.994,400.839 413.994,403.971 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 435.094 409.4)" font-size="1.28571" style="font-family: romand" >85</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="418.691,401.426 418.691,403.383 " />
+<polyline points="423.388,401.426 423.388,403.383 " />
+<polyline points="428.085,401.426 428.085,403.383 " />
+<polyline points="432.782,401.426 432.782,403.383 " />
+<polyline points="437.479,400.839 437.479,403.971 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 458.579 409.4)" font-size="1.28571" style="font-family: romand" >90</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="348.234,401.426 348.234,403.383 " />
+<polyline points="352.931,401.426 352.931,403.383 " />
+<polyline points="357.628,401.426 357.628,403.383 " />
+<polyline points="362.325,401.426 362.325,403.383 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 60.5149 409.4)" font-size="1.28571" style="font-family: romand" >5</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="442.177,401.426 442.177,403.383 " />
+<polyline points="446.874,401.426 446.874,403.383 " />
+<polyline points="451.571,401.426 451.571,403.383 " />
+<polyline points="456.268,401.426 456.268,403.383 " />
+<polyline points="460.965,400.839 460.965,403.971 " />
+<polyline points="465.662,401.426 465.662,403.383 " />
+<polyline points="470.359,401.426 470.359,403.383 " />
+<polyline points="475.057,401.426 475.057,403.383 " />
+<polyline points="479.754,401.426 479.754,403.383 " />
+<polyline points="484.451,400.839 484.451,403.971 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 504.179 409.4)" font-size="1.28571" style="font-family: romand" >100</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="489.148,401.426 489.148,403.383 " />
+<polyline points="493.845,401.426 493.845,403.383 " />
+<polyline points="498.542,401.426 498.542,403.383 " />
+<polyline points="503.239,401.426 503.239,403.383 " />
+<polyline points="507.937,400.839 507.937,403.971 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 527.665 409.4)" font-size="1.28571" style="font-family: romand" >105</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="512.634,401.426 512.634,403.383 " />
+<polyline points="517.331,401.426 517.331,403.383 " />
+<polyline points="522.028,401.426 522.028,403.383 " />
+<polyline points="526.725,401.426 526.725,403.383 " />
+<polyline points="531.422,400.839 531.422,403.971 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 551.15 409.4)" font-size="1.28571" style="font-family: romand" >110</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="536.119,401.426 536.119,403.383 " />
+<polyline points="540.817,401.426 540.817,403.383 " />
+<polyline points="545.514,401.426 545.514,403.383 " />
+<polyline points="550.211,401.426 550.211,403.383 " />
+<polyline points="554.908,400.839 554.908,403.971 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 574.636 409.4)" font-size="1.28571" style="font-family: romand" >115</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="559.605,401.426 559.605,403.383 " />
+<polyline points="564.302,401.426 564.302,403.383 " />
+<polyline points="569,401.426 569,403.383 " />
+<polyline points="573.697,401.426 573.697,403.383 " />
+<polyline points="578.394,400.839 578.394,403.971 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 598.122 409.4)" font-size="1.28571" style="font-family: romand" >120</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="601.88,400.839 601.88,403.971 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 621.608 409.4)" font-size="1.28571" style="font-family: romand" >125</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="606.577,401.426 606.577,403.383 " />
+<polyline points="611.274,401.426 611.274,403.383 " />
+<polyline points="615.971,401.426 615.971,403.383 " />
+<polyline points="620.668,401.426 620.668,403.383 " />
+<polyline points="625.365,400.839 625.365,403.971 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 645.093 409.4)" font-size="1.28571" style="font-family: romand" >130</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="630.062,401.426 630.062,403.383 " />
+<polyline points="634.76,401.426 634.76,403.383 " />
+<polyline points="639.457,401.426 639.457,403.383 " />
+<polyline points="644.154,401.426 644.154,403.383 " />
+<polyline points="648.851,400.839 648.851,403.971 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 668.579 409.4)" font-size="1.28571" style="font-family: romand" >135</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="653.548,401.426 653.548,403.383 " />
+<polyline points="658.245,401.426 658.245,403.383 " />
+<polyline points="662.942,401.426 662.942,403.383 " />
+<polyline points="667.64,401.426 667.64,403.383 " />
+<polyline points="672.337,400.839 672.337,403.971 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 692.065 409.4)" font-size="1.28571" style="font-family: romand" >140</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="583.091,401.426 583.091,403.383 " />
+<polyline points="587.788,401.426 587.788,403.383 " />
+<polyline points="592.485,401.426 592.485,403.383 " />
+<polyline points="597.182,401.426 597.182,403.383 " />
+<polyline points="677.034,401.426 677.034,403.383 " />
+<polyline points="681.731,401.426 681.731,403.383 " />
+<polyline points="686.428,401.426 686.428,403.383 " />
+<polyline points="691.125,401.426 691.125,403.383 " />
+<polyline points="695.822,400.839 695.822,403.971 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 715.55 409.4)" font-size="1.28571" style="font-family: romand" >145</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="700.52,401.426 700.52,403.383 " />
+<polyline points="705.217,401.426 705.217,403.383 " />
+<polyline points="709.914,401.426 709.914,403.383 " />
+<polyline points="714.611,401.426 714.611,403.383 " />
+<polyline points="719.308,400.839 719.308,403.971 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 739.036 409.4)" font-size="1.28571" style="font-family: romand" >150</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="724.005,401.426 724.005,403.383 " />
+<polyline points="728.702,401.426 728.702,403.383 " />
+<polyline points="733.4,401.426 733.4,403.383 " />
+<polyline points="738.097,401.426 738.097,403.383 " />
+<polyline points="742.794,400.839 742.794,403.971 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 762.522 409.4)" font-size="1.28571" style="font-family: romand" >155</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="747.491,401.426 747.491,403.383 " />
+<polyline points="752.188,401.426 752.188,403.383 " />
+<polyline points="756.885,401.426 756.885,403.383 " />
+<polyline points="761.582,401.426 761.582,403.383 " />
+<polyline points="766.28,400.839 766.28,403.971 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 786.008 409.4)" font-size="1.28571" style="font-family: romand" >160</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="789.765,400.839 789.765,403.971 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 809.493 409.4)" font-size="1.28571" style="font-family: romand" >165</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="794.462,401.426 794.462,403.383 " />
+<polyline points="799.16,401.426 799.16,403.383 " />
+<polyline points="803.857,401.426 803.857,403.383 " />
+<polyline points="808.554,401.426 808.554,403.383 " />
+<polyline points="813.251,400.839 813.251,403.971 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 832.979 409.4)" font-size="1.28571" style="font-family: romand" >170</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="817.948,401.426 817.948,403.383 " />
+<polyline points="822.645,401.426 822.645,403.383 " />
+<polyline points="827.342,401.426 827.342,403.383 " />
+<polyline points="832.04,401.426 832.04,403.383 " />
+<polyline points="836.737,400.839 836.737,403.971 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 856.465 409.4)" font-size="1.28571" style="font-family: romand" >175</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="841.434,401.426 841.434,403.383 " />
+<polyline points="846.131,401.426 846.131,403.383 " />
+<polyline points="850.828,401.426 850.828,403.383 " />
+<polyline points="855.525,401.426 855.525,403.383 " />
+<polyline points="860.223,400.839 860.223,403.971 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 879.951 409.4)" font-size="1.28571" style="font-family: romand" >180</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="770.977,401.426 770.977,403.383 " />
+<polyline points="775.674,401.426 775.674,403.383 " />
+<polyline points="780.371,401.426 780.371,403.383 " />
+<polyline points="785.068,401.426 785.068,403.383 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 482.065 409.4)" font-size="1.28571" style="font-family: romand" >95</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="864.92,401.426 864.92,403.383 " />
+<polyline points="869.617,401.426 869.617,403.383 " />
+<polyline points="874.314,401.426 874.314,403.383 " />
+<polyline points="879.011,401.426 879.011,403.383 " />
+<polyline points="883.708,400.839 883.708,403.971 " />
+<polyline points="888.405,401.426 888.405,403.383 " />
+<polyline points="893.103,401.426 893.103,403.383 " />
+<polyline points="897.8,401.426 897.8,403.383 " />
+<polyline points="902.497,401.426 902.497,403.383 " />
+<polyline points="907.194,400.839 907.194,403.971 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 926.922 409.4)" font-size="1.28571" style="font-family: romand" >190</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="911.891,401.426 911.891,403.383 " />
+<polyline points="916.588,401.426 916.588,403.383 " />
+<polyline points="921.285,401.426 921.285,403.383 " />
+<polyline points="925.983,401.426 925.983,403.383 " />
+<polyline points="930.68,400.839 930.68,403.971 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 950.408 409.4)" font-size="1.28571" style="font-family: romand" >195</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="935.377,401.426 935.377,403.383 " />
+<polyline points="940.074,401.426 940.074,403.383 " />
+<polyline points="944.771,401.426 944.771,403.383 " />
+<polyline points="949.468,401.426 949.468,403.383 " />
+<polyline points="954.165,400.839 954.165,403.971 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 974.072 409.4)" font-size="1.28571" style="font-family: romand" >200</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="958.863,401.426 958.863,403.383 " />
+<polyline points="963.56,401.426 963.56,403.383 " />
+<polyline points="968.257,401.426 968.257,403.383 " />
+<polyline points="972.954,401.426 972.954,403.383 " />
+<polyline points="977.651,400.839 977.651,403.971 " />
+<polyline points="982.348,401.426 982.348,403.383 " />
+<polyline points="987.045,401.426 987.045,403.383 " />
+<polyline points="991.743,401.426 991.743,403.383 " />
+<polyline points="996.44,401.426 996.44,403.383 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 903.436 409.4)" font-size="1.28571" style="font-family: romand" >185</text>
+</g>
+<g clip-path="url(#clipId0)" fill="rgb(0,191,255)" stroke="rgb(0,191,255)" stroke-width="0" >
+<text transform="matrix(2.50514 0 -0 3.13143 1009.08 403.606)" font-family="Arial,'sans-serif'" font-size="1.39636" >&#1044;&#1055;</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(255,127,0)" stroke-width="0.35" >
+<polyline points="99.285,484.17 99.285,320.639 " />
+<polyline points="958.863,374.843 958.863,429.967 " />
+<polyline points="244.896,402.405 512.634,402.405 " />
+<polyline points="522.028,402.405 639.457,402.405 " />
+<polyline points="677.523,402.405 921.285,402.405 " />
+<polyline points="522.028,367.959 641.414,367.959 " />
+<polyline points="646.894,367.959 662.942,367.959 " />
+<polyline points="413.994,436.851 428.085,436.851 " />
+<polyline points="413.994,367.959 428.085,367.959 " />
+<polyline points="348.234,473.645 348.234,331.165 " />
+<polyline points="428.085,484.605 428.085,320.205 " />
+<polyline points="522.028,484.605 522.028,320.205 " />
+<polyline points="662.942,484.605 662.942,320.205 " />
+<polyline points="761.582,483.152 761.582,321.657 " />
+<polyline points="855.525,469.587 855.525,335.223 " />
+<polyline points="930.68,360.416 930.68,444.394 " />
+<polyline points="244.896,320.205 244.896,484.605 " />
+<polyline points="281.336,320.205 716.673,320.207 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="958.863,429.967 987.184,392.726 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(255,127,0)" stroke-width="0.35" >
+<polyline points="921.285,356.317 921.285,448.493 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="855.525,402.405 887.072,420.912 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="887.072,420.912 921.285,437.375 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="921.285,402.405 897.67,420.016 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="897.67,420.016 855.525,451.096 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="855.525,402.405 898.227,378.201 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="898.227,378.201 921.285,367.435 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="921.285,402.405 887.629,377.305 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="887.629,377.305 855.525,353.714 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(255,127,0)" stroke-width="0.35" >
+<polyline points="672.337,331.165 672.337,397.218 " />
+<polyline points="672.337,407.591 672.337,473.645 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="761.582,402.405 710.826,363.596 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="710.826,363.596 672.337,331.165 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="672.337,402.405 720.498,363.709 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="720.498,363.709 761.582,334.129 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="846.131,453.056 809.103,436.002 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="809.103,436.002 761.582,402.405 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="761.582,402.405 720.405,433.143 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="720.405,433.143 672.337,473.645 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="761.582,470.681 808.718,428.691 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="808.718,428.691 846.131,402.405 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(255,127,0)" stroke-width="0.35" >
+<polyline points="512.634,331.165 512.634,473.645 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="512.634,331.165 475.149,362.749 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="475.149,362.749 428.085,402.405 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="413.994,402.405 385.362,371.387 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="385.362,371.387 348.234,331.165 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="428.085,331.165 475.149,370.82 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="475.149,370.82 512.634,402.405 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="512.634,473.645 465.57,433.989 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="465.57,433.989 428.085,402.405 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="348.234,473.645 286.61,430.334 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="286.61,430.334 263.685,402.405 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="244.896,470.166 295.803,430.751 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="295.803,430.751 329.445,402.405 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="428.085,473.645 475.149,433.989 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="475.149,433.989 512.634,402.405 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(255,127,0)" stroke-width="0.35" >
+<polyline points="413.994,331.165 413.994,473.645 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="244.896,321.756 329.445,331.165 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="329.445,331.165 428.085,320.205 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="428.085,320.205 522.028,331.165 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="522.028,320.205 428.085,331.165 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="428.085,331.165 329.445,320.205 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="329.445,320.205 283.951,326.102 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="244.896,483.053 329.445,473.645 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="329.445,473.645 428.085,484.605 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="428.085,484.605 522.028,473.645 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="522.028,484.605 428.085,473.645 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="428.085,473.645 329.445,484.605 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="329.445,484.605 283.951,478.707 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="99.285,376.571 57.0107,428.239 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="846.131,351.753 809.103,368.808 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="809.103,368.808 761.582,402.405 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="761.582,334.129 798.954,368.274 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="798.954,368.274 846.131,402.405 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="672.337,402.405 720.498,441.101 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="720.498,441.101 761.582,470.681 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(255,127,0)" stroke-width="0.35" >
+<polyline points="329.445,320.205 329.445,331.165 " />
+<polyline points="329.445,355.042 329.445,449.768 " />
+<polyline points="329.445,473.645 329.445,484.605 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="522.028,320.205 662.942,331.165 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="662.942,320.205 522.028,331.165 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="522.028,484.605 662.942,473.645 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="662.942,484.605 522.028,473.645 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="662.942,320.205 761.582,334.129 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="761.582,321.657 662.942,331.165 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="662.942,484.605 761.582,470.681 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(255,127,0)" stroke-width="0.35" >
+<polyline points="99.285,398.099 108.679,398.099 " />
+<polyline points="99.285,406.711 113.376,406.711 " stroke-dasharray="0.029827,0.014913" />
+<polyline points="522.028,436.851 662.942,436.851 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="428.085,367.959 418.8,343.713 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="418.8,343.713 413.994,331.165 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="413.994,331.165 385.362,362.183 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="385.362,362.183 348.234,402.405 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="413.994,402.405 385.362,433.423 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="385.362,433.423 348.234,473.645 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="413.994,473.645 376.866,433.423 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="376.866,433.423 348.234,402.405 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="428.085,473.645 423.279,461.096 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="418.8,449.399 413.994,436.851 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="413.994,436.851 418.668,425.424 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="423.411,413.831 428.085,402.405 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="428.085,402.405 418.668,379.385 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="418.668,379.385 413.994,367.959 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="413.994,367.959 423.279,343.713 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="423.279,343.713 428.085,331.165 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="413.994,473.645 418.8,461.096 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="423.279,449.399 428.085,436.851 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="428.085,436.851 423.411,425.424 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="418.668,413.831 413.994,402.405 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="413.994,402.405 423.411,379.385 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="423.411,379.385 428.085,367.959 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(255,127,0)" stroke-width="0.35" >
+<polyline points="263.685,367.959 263.685,436.851 " />
+<polyline points="244.896,367.959 263.685,367.959 " />
+<polyline points="244.896,436.851 263.685,436.851 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="244.896,402.405 251.292,414.13 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="251.292,414.13 263.685,436.851 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="244.896,436.851 257.29,414.13 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="257.29,414.13 263.685,402.405 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="348.234,331.165 296.449,366.911 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="296.449,366.911 263.685,402.405 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="244.896,334.644 286.225,365.988 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="286.225,365.988 329.445,402.405 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="244.896,402.405 257.29,379.684 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="257.29,379.684 263.685,367.959 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="244.896,367.959 251.292,379.684 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="251.292,379.684 263.685,402.405 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(255,127,0)" stroke-width="0.35" >
+<polyline points="57.0107,377.699 57.0107,427.111 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="33.5249,401.426 33.5249,403.383 " />
+<polyline points="28.8278,401.426 28.8278,403.383 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(255,127,0)" stroke-width="0.35" >
+<polyline points="639.457,367.959 639.457,385.534 " />
+<polyline points="639.457,393.441 639.457,436.851 " />
+<polyline points="639.457,402.405 649.634,402.405 " />
+<polyline points="58.5998,428.239 99.285,428.239 " />
+<polyline points="58.5998,376.571 99.285,376.571 " />
+<polyline points="108.679,415.322 108.679,398.099 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="148.605,376.727 229.004,376.727 " />
+<polyline points="147.039,378.293 147.039,426.517 " />
+<path d="M148.605,376.727  A1.56572,1.56572 0 0,0 147.039,378.293 " />
+<polyline points="148.605,428.083 229.004,428.083 " />
+<path d="M229.004,428.083  A1.56572,1.56572 0 0,0 230.57,426.517 " />
+<path d="M147.039,426.517  A1.56572,1.56572 0 0,0 148.605,428.083 " />
+<polyline points="230.57,426.517 230.57,378.293 " />
+<path d="M230.57,378.293  A1.56572,1.56572 0 0,0 229.004,376.727 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(255,127,0)" stroke-width="0.35" >
+<polyline points="273.722,331.165 709.131,331.165 " />
+<polyline points="709.131,331.165 745.925,332.887 " />
+<polyline points="745.925,332.887 758.764,333.543 " />
+<polyline points="758.764,333.543 781.154,338.195 " />
+<polyline points="781.154,338.195 921.285,367.435 " />
+<polyline points="273.722,473.645 709.131,473.645 " />
+<polyline points="709.131,473.645 745.925,471.923 " />
+<polyline points="745.925,471.923 758.764,471.266 " />
+<polyline points="758.764,471.266 781.154,466.614 " />
+<polyline points="781.154,466.614 921.285,437.375 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="235.502,363.653 244.896,363.653 " />
+<polyline points="235.502,363.653 235.502,346.431 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="244.896,346.431 235.502,363.653 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="244.896,363.653 235.502,346.431 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="281.337,320.205 260.528,320.611 239.784,322.29 198.675,328.734 158.149,338.187 118.074,349.441 " />
+<polyline points="118.074,349.441 99.285,355.874 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="761.582,483.152 662.942,473.645 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(255,127,0)" stroke-width="0.35" >
+<polyline points="99.285,415.322 108.679,415.322 " stroke-dasharray="0.099423,0.049711" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="235.502,346.431 244.896,346.431 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(255,127,0)" stroke-width="0.35" >
+<polyline points="235.502,346.431 216.714,346.431 " stroke-dasharray="0.029827,0.014913" />
+<polyline points="216.714,325.49 216.714,346.431 " stroke-dasharray="0.049711,0.024856" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="244.896,321.756 234.523,330.838 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="234.523,330.838 216.714,346.431 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(255,0,127)" stroke-width="0.25" >
+<polyline points="235.528,332.379 235.502,332.409 " stroke-dasharray="0.001174,0.000587,0.000000,0.000587" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="244.896,346.431 225.656,332.278 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="225.656,332.278 216.714,325.7 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="99.285,428.239 57.0107,376.571 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(255,127,0)" stroke-width="0.35" >
+<polyline points="244.896,334.644 273.722,331.165 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="283.951,326.102 244.896,334.644 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(255,127,0)" stroke-width="0.35" >
+<polyline points="244.896,470.166 273.722,473.645 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="283.951,478.707 244.896,470.166 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(255,127,0)" stroke-width="0.35" >
+<polyline points="113.376,406.711 113.376,436.851 " stroke-dasharray="0.049711,0.024856" />
+<polyline points="113.376,398.099 113.376,367.959 " stroke-dasharray="0.049711,0.024856" />
+<polyline points="108.679,398.099 113.376,398.099 " stroke-dasharray="0.009942,0.004971" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="113.376,398.099 99.285,367.959 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="113.376,367.959 99.285,398.099 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(255,127,0)" stroke-width="0.35" >
+<polyline points="99.285,436.851 113.376,436.851 " stroke-dasharray="0.049711,0.024856" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="113.376,406.711 99.285,436.851 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="113.376,436.851 99.285,406.711 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+</g>
+<g clip-path="url(#clipId0)" fill="rgb(0,191,255)" stroke="rgb(0,191,255)" stroke-width="0" >
+<text transform="matrix(4.69715 0 -0 4.69715 482.844 289.333)" font-family="Arial,'sans-serif'" font-size="1.39636" >&#1055;&#1083;&#1072;&#1090;&#1092;&#1086;&#1088;&#1084;&#1072; 6900 &#1084;&#1084; &#1086;&#1090; &#1054;&#1055;</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="244.896,359.348 287.376,339.573 292.897,337.786 298.678,336.84 310.238,334.948 333.359,331.165 " />
+<polyline points="244.896,445.462 287.376,465.237 292.897,467.024 298.678,467.97 310.238,469.861 333.359,473.645 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="958.863,374.843 986.115,412.768 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="662.942,331.165 672.337,473.645 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="662.942,473.645 672.337,331.165 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(255,127,0)" stroke-width="0.35" >
+<polyline points="662.942,402.405 667.15,402.405 " />
+<polyline points="512.634,402.405 514.199,402.405 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="520.462,402.013 520.462,402.796 514.199,402.013 514.199,402.796 520.462,402.013 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(255,127,0)" stroke-width="0.35" >
+<polyline points="520.462,402.405 522.028,402.405 " />
+<circle cx="672.337" cy="402.405" r="5.18643" stroke-dasharray="0.029827,0.014913" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<circle cx="672.337" cy="402.405" r="5.343" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(255,127,0)" stroke-width="0.35" >
+<polyline points="672.337,397.218 672.337,407.591 " stroke-dasharray="0.014913,0.007457" />
+<polyline points="677.523,402.405 672.337,402.405 " stroke-dasharray="0.014913,0.007457" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="512.634,331.165 522.028,473.645 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="512.634,473.645 522.028,331.165 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="921.285,356.317 930.68,444.394 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="921.285,448.493 930.68,360.416 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(255,127,0)" stroke-width="0.35" >
+<polyline points="17.0849,376.571 58.5998,376.571 " />
+<polyline points="57.0107,377.699 57.0107,324.885 " />
+<polyline points="17.0849,428.239 58.5998,428.239 " />
+<polyline points="57.0107,427.111 57.0107,479.925 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="281.337,484.605 260.528,484.199 239.784,482.52 198.675,476.075 158.149,466.623 118.074,455.368 " />
+<polyline points="118.074,455.368 99.285,448.936 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(255,127,0)" stroke-width="0.35" >
+<polyline points="17.0849,402.405 17.0849,469.402 " />
+<polyline points="118.074,484.544 92.4218,483.83 66.8758,481.422 41.6373,476.818 17.0849,469.402 " />
+<polyline points="234.872,484.605 118.074,484.544 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.09" >
+<polyline points="24.1307,401.426 24.1307,403.383 " />
+<polyline points="19.4335,401.426 19.4335,403.383 " />
+<polyline points="10.0392,401.426 10.0392,403.383 " />
+<polyline points="14.7364,400.839 14.7364,403.971 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="57.0107,479.925 30.9567,446.197 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="30.9567,446.197 17.0849,428.239 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="57.0107,428.239 39.1457,446.658 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="39.1457,446.658 17.0849,469.402 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(255,127,0)" stroke-width="0.35" >
+<polyline points="17.0849,402.405 17.0849,335.408 " />
+<polyline points="118.074,320.266 92.4218,320.979 66.8758,323.388 41.6373,327.992 17.0849,335.408 " />
+<polyline points="234.872,320.205 118.074,320.266 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="57.0107,324.885 38.6139,348.7 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="38.6139,348.7 17.0849,376.571 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="57.0107,376.571 30.4248,349.161 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="30.4248,349.161 17.0849,335.408 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="99.285,376.571 73.3489,344.86 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="73.3489,344.86 57.0107,324.885 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="99.285,320.639 81.0903,344.712 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="81.0903,344.712 57.0107,376.571 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(255,127,0)" stroke-width="0.35" >
+<polyline points="234.872,320.205 281.336,320.205 " />
+<polyline points="234.872,484.605 281.336,484.605 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="99.285,428.239 81.2791,450.254 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="81.2791,450.254 57.0107,479.925 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="99.285,484.17 81.0903,460.098 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="81.0903,460.098 57.0107,428.239 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.05" >
+<text transform="matrix(2.50514 0 -0 3.13143 11.3096 409.4)" font-size="1.28571" style="font-family: romand" >-5</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="761.582,470.681 789.011,472.222 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="789.011,472.222 855.525,469.587 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="855.525,451.096 801.163,470.471 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="801.163,470.471 761.582,483.152 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="761.582,334.129 801.517,331.885 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="801.517,331.885 855.525,335.223 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="855.525,353.714 789.364,330.134 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="789.364,330.134 761.582,321.657 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(255,127,0)" stroke-width="0.35" >
+<polyline points="160.355,445.462 160.355,484.538 " />
+<polyline points="160.355,445.462 194.974,445.462 " />
+<polyline points="200.876,445.462 244.899,445.462 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="179.562,444.249 179.562,439.424 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(128,128,128)" stroke-width="0.1" >
+<path d="M181.91,444.734  A0.234857,0.234857 0 0,0 182.245,444.734 " />
+<path d="M174.439,441.82  A0.352286,0.352286 0 0,0 174.439,441.197 " />
+<polyline points="188.726,445.197 188.726,445.462 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="187.591,445.227 175.614,445.227 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(128,128,128)" stroke-width="0.1" >
+<polyline points="188.275,444.734 176.496,444.734 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="178.301,444.249 178.301,441.608 " />
+<polyline points="176.776,444.249 188.374,444.249 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(128,128,128)" stroke-width="0.1" >
+<path d="M181.849,437.038  A0.352286,0.352286 0 0,0 181.671,436.877 " />
+<path d="M174.439,441.6  A0.187886,0.187886 0 0,0 174.439,441.418 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="185.866,444.249 185.866,438.769 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(128,128,128)" stroke-width="0.1" >
+<polyline points="174.439,445.462 174.439,438.15 " />
+<path d="M189.055,445.197  A0.786772,0.786772 0 0,0 188.278,444.405 " />
+<path d="M175.222,437.367  A0.782858,0.782858 0 0,0 174.439,438.15 " />
+<path d="M181.405,436.877  A0.352286,0.352286 0 0,0 181.226,437.038 " />
+<path d="M174.111,441.418  A0.187886,0.187886 0 0,0 174.111,441.6 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<path d="M175.614,437.79  A0.782858,0.782858 0 0,0 174.831,438.573 " />
+<path d="M187.591,445.227  A0.782858,0.782858 0 0,0 188.318,444.737 " />
+<path d="M174.831,444.444  A0.782858,0.782858 0 0,0 175.614,445.227 " />
+<polyline points="174.831,444.444 174.831,438.573 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(128,128,128)" stroke-width="0.1" >
+<polyline points="180.031,438.612 188.278,438.612 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="175.614,437.79 187.591,437.79 " />
+<path d="M188.319,438.283  A0.782858,0.782858 0 0,0 187.591,437.79 " />
+<polyline points="179.94,438.769 188.374,438.769 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(128,128,128)" stroke-width="0.1" >
+<polyline points="176.686,444.405 188.277,444.405 " />
+<polyline points="188.275,438.283 180.221,438.283 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="176.211,445.227 180.505,437.79 " />
+<polyline points="177.04,444.249 177.04,443.791 " />
+<polyline points="184.605,444.249 184.605,438.769 " />
+<polyline points="180.823,444.249 180.823,438.769 " />
+<polyline points="182.083,444.249 182.083,438.769 " />
+<polyline points="187.127,444.249 187.127,438.769 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(128,128,128)" stroke-width="0.1" >
+<path d="M182.245,444.405  A0.234857,0.234857 0 0,0 181.91,444.405 " />
+<path d="M181.91,438.612  A0.234857,0.234857 0 0,0 182.245,438.612 " />
+<path d="M181.226,437.367  A0.352286,0.352286 0 0,0 181.849,437.367 " />
+<path d="M182.245,438.283  A0.234857,0.234857 0 0,0 181.91,438.283 " />
+<path d="M188.278,438.612  A0.786772,0.786772 0 0,0 188.268,437.038 " />
+<path d="M174.111,441.197  A0.352286,0.352286 0 0,0 174.111,441.82 " />
+<polyline points="174.111,445.462 174.111,438.15 " />
+<path d="M188.275,438.283  A0.457972,0.457972 0 0,0 188.268,437.367 " />
+<path d="M175.222,437.039  A1.11166,1.11166 0 0,0 174.111,438.15 " />
+<polyline points="189.055,445.197 189.055,445.462 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="180.311,438.127 188.235,438.127 " />
+<polyline points="176.406,444.891 188.235,444.891 " />
+<polyline points="183.344,444.249 183.344,438.769 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(128,128,128)" stroke-width="0.1" >
+<polyline points="175.222,437.039 188.268,437.038 " />
+<polyline points="175.222,437.367 188.268,437.367 " />
+<path d="M188.726,445.197  A0.457972,0.457972 0 0,0 188.275,444.734 " />
+<path d="M181.447,437.367  A0.187886,0.187886 0 0,0 181.629,437.367 " />
+<path d="M181.671,435.781  A0.195714,0.195714 0 1,0 181.405,435.781 " />
+<polyline points="181.405,435.637 181.405,437.038 " />
+<polyline points="181.671,435.637 181.671,437.038 " />
+<path d="M181.671,435.637  A0.133086,0.133086 0 0,0 181.405,435.637 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<path d="M188.374,438.769  A0.782858,0.782858 0 0,0 188.358,438.612 " />
+<polyline points="188.374,438.769 188.374,444.249 " />
+<path d="M188.357,444.41  A0.782858,0.782858 0 0,0 188.374,444.249 " />
+<polyline points="200.776,445.924 200.845,445.855 " />
+<polyline points="195.185,445.807 195.154,445.807 " />
+<polyline points="200.564,445.783 200.564,445.752 " />
+<polyline points="195.079,445.924 195.005,445.85 " />
+<polyline points="200.822,445.792 200.696,445.792 " />
+<polyline points="195.028,445.792 195.154,445.792 " />
+<polyline points="200.696,445.835 200.739,445.792 " />
+<polyline points="200.847,445.4 200.885,445.431 " />
+<polyline points="200.822,445.788 195.028,445.788 " />
+<polyline points="195.107,445.924 195.005,445.822 " />
+<polyline points="200.665,445.955 200.876,445.955 " />
+<polyline points="200.308,440.263 200.308,440.061 " />
+<polyline points="195.028,445.792 195.005,445.806 " />
+<polyline points="195.064,445.473 195.064,445.752 " />
+<polyline points="195.154,445.887 195.06,445.792 " />
+<polyline points="195.51,446.153 196.515,446.05 " />
+<polyline points="200.06,440.061 200.163,441.066 " />
+<polyline points="200.74,439.837 200.771,439.837 " />
+<polyline points="200.777,439.579 200.777,445.368 " />
+<polyline points="200.564,445.471 200.564,445.44 " />
+<polyline points="200.786,445.752 200.564,445.752 " />
+<polyline points="200.731,445.924 200.696,445.89 " />
+<polyline points="195.005,445.431 194.614,445.431 " />
+<polyline points="200.817,445.44 200.817,445.783 " />
+<polyline points="200.822,445.405 200.822,445.788 " />
+<polyline points="201.142,440.061 201.039,441.066 " />
+<polyline points="200.665,445.807 200.665,445.955 " />
+<polyline points="195.005,445.818 195.03,445.792 " />
+<polyline points="200.876,445.462 200.876,445.955 " />
+<polyline points="200.822,445.738 200.845,445.738 " />
+<polyline points="200.786,445.471 200.564,445.471 " />
+<polyline points="200.754,445.471 200.754,445.752 " />
+<polyline points="200.696,445.924 200.845,445.924 " />
+<polyline points="200.845,445.402 200.845,445.924 " />
+<polyline points="200.696,445.891 200.795,445.792 " />
+<polyline points="200.696,445.863 200.767,445.792 " />
+<polyline points="195.005,445.846 195.058,445.792 " />
+<polyline points="195.005,445.874 195.087,445.792 " />
+<polyline points="200.748,445.924 200.845,445.826 " />
+<polyline points="200.832,445.924 200.845,445.911 " />
+<polyline points="195.028,445.431 195.154,445.431 " />
+<polyline points="200.759,445.924 200.696,445.862 " />
+<polyline points="200.787,445.924 200.696,445.834 " />
+<polyline points="200.815,445.924 200.696,445.805 " />
+<polyline points="200.843,445.924 200.711,445.792 " />
+<polyline points="200.845,445.87 200.768,445.792 " />
+<polyline points="200.845,445.814 200.827,445.796 " />
+<polyline points="200.696,445.788 200.696,445.924 " />
+<polyline points="195.712,445.319 196.481,445.196 " />
+<polyline points="195.712,445.881 195.712,445.904 " />
+<polyline points="201.237,445.462 200.876,445.462 " />
+<polyline points="195.51,445.342 195.51,445.319 " />
+<polyline points="195.51,445.319 195.51,445.07 " />
+<polyline points="194.974,445.462 194.974,445.955 " />
+<polyline points="194.614,445.462 194.974,445.462 " />
+<polyline points="195.185,445.807 195.185,445.955 " />
+<polyline points="195.185,445.955 194.974,445.955 " />
+<polyline points="195.154,445.788 195.154,445.924 " />
+<polyline points="195.154,445.915 195.031,445.792 " />
+<polyline points="195.022,445.924 195.005,445.907 " />
+<polyline points="195.135,445.924 195.012,445.802 " />
+<polyline points="200.308,440.263 200.185,441.032 " />
+<polyline points="195.005,445.902 195.115,445.792 " />
+<polyline points="195.154,445.802 195.144,445.792 " />
+<polyline points="200.74,439.615 200.461,439.615 " />
+<polyline points="195.096,445.924 195.154,445.866 " />
+<polyline points="195.152,445.924 195.154,445.922 " />
+<polyline points="195.154,445.435 195.154,445.431 " />
+<polyline points="200.782,439.579 200.425,439.579 " />
+<polyline points="200.822,445.783 195.028,445.783 " />
+<polyline points="200.822,445.44 195.028,445.44 " />
+<polyline points="200.894,440.263 200.894,440.061 " />
+<polyline points="195.028,445.431 195.028,445.788 " />
+<polyline points="200.822,445.435 195.028,445.435 " />
+<polyline points="195.005,445.431 195.005,445.924 " />
+<polyline points="194.614,445.431 194.614,445.462 " />
+<polyline points="201.237,445.431 201.237,445.462 " />
+<polyline points="195.51,445.904 195.51,446.153 " />
+<polyline points="195.852,445.435 195.852,445.342 " />
+<polyline points="200.87,440.061 200.894,440.061 " />
+<polyline points="195.37,445.342 195.37,445.435 " />
+<polyline points="195.712,445.342 195.712,445.319 " />
+<polyline points="195.51,445.881 195.51,445.904 " />
+<polyline points="195.37,445.881 195.37,445.788 " />
+<polyline points="195.852,445.342 195.37,445.342 " />
+<polyline points="195.852,445.881 195.37,445.881 " />
+<polyline points="195.712,445.904 195.51,445.904 " />
+<polyline points="200.777,445.368 200.43,445.368 " />
+<polyline points="200.782,445.372 200.782,445.247 " />
+<polyline points="200.741,445.336 200.741,445.115 " />
+<polyline points="200.741,445.115 200.772,445.115 " />
+<polyline points="200.741,445.305 200.461,445.305 " />
+<polyline points="200.74,439.615 200.74,439.837 " />
+<polyline points="200.777,439.705 200.782,439.705 " />
+<polyline points="200.772,439.579 200.772,445.368 " />
+<polyline points="200.777,439.584 200.43,439.584 " />
+<polyline points="200.777,440.403 200.87,440.403 " />
+<polyline points="200.894,440.263 201.017,441.032 " />
+<polyline points="200.425,440.403 200.332,440.403 " />
+<polyline points="200.811,445.396 200.475,445.396 " />
+<polyline points="200.475,445.372 200.475,445.396 " />
+<path d="M200.425,439.579  A6.47192,6.47192 0 0,0 195.028,445.788 " />
+<polyline points="200.845,445.431 201.237,445.431 " />
+<polyline points="200.822,445.431 200.696,445.431 " />
+<polyline points="200.696,445.435 200.696,445.431 " />
+<polyline points="200.786,445.471 200.786,445.752 " />
+<polyline points="200.822,445.792 200.845,445.806 " />
+<polyline points="200.696,445.806 200.71,445.792 " />
+<polyline points="200.696,445.919 200.822,445.793 " />
+<polyline points="200.719,445.924 200.84,445.803 " />
+<polyline points="200.804,445.924 200.845,445.883 " />
+<polyline points="200.702,445.924 200.696,445.918 " />
+<polyline points="200.845,445.898 200.74,445.792 " />
+<polyline points="200.845,445.842 200.796,445.792 " />
+<polyline points="200.665,445.807 200.696,445.807 " />
+<polyline points="200.855,445.384 200.914,445.431 " />
+<polyline points="195.064,445.752 195.286,445.752 " />
+<polyline points="195.286,445.783 195.286,445.752 " />
+<polyline points="195.05,445.924 195.005,445.878 " />
+<polyline points="195.154,445.858 195.088,445.792 " />
+<polyline points="195.154,445.83 195.116,445.792 " />
+<polyline points="195.039,445.924 195.154,445.81 " />
+<polyline points="195.068,445.924 195.154,445.838 " />
+<polyline points="195.011,445.924 195.143,445.792 " />
+<polyline points="195.124,445.924 195.154,445.894 " />
+<polyline points="195.154,445.924 195.005,445.924 " />
+<polyline points="195.286,445.473 195.286,445.442 " />
+<polyline points="195.064,445.473 195.286,445.473 " />
+<polyline points="195.033,445.44 195.033,445.783 " />
+<polyline points="195.712,445.904 196.481,446.027 " />
+<path d="M196.515,446.05  A0.0204044,0.0204044 0 0,0 196.481,446.027 " />
+<polyline points="195.852,445.788 195.852,445.881 " />
+<polyline points="195.712,445.319 195.51,445.319 " />
+<polyline points="195.51,445.07 196.515,445.173 " />
+<circle cx="200.831" cy="445.382" r="0.0246121" />
+<polyline points="200.808,445.372 200.425,445.372 " />
+<polyline points="200.777,445.247 200.782,445.247 " />
+<polyline points="200.741,445.336 200.461,445.336 " />
+<polyline points="200.461,439.615 200.461,439.837 " />
+<polyline points="200.43,445.115 200.461,445.115 " />
+<polyline points="200.43,439.837 200.461,439.837 " />
+<polyline points="200.461,445.336 200.461,445.115 " />
+<polyline points="200.43,439.579 200.43,445.368 " />
+<polyline points="200.782,439.579 200.782,439.705 " />
+<polyline points="200.425,439.579 200.425,445.372 " />
+<polyline points="200.308,440.061 200.06,440.061 " />
+<path d="M201.017,441.032  A0.0203904,0.0203904 0 0,0 201.039,441.066 " />
+<polyline points="200.87,440.263 200.894,440.263 " />
+<polyline points="200.332,440.263 200.308,440.263 " />
+<path d="M200.163,441.066  A0.0204044,0.0204044 0 0,0 200.185,441.032 " />
+<polyline points="200.87,439.921 200.777,439.921 " />
+<polyline points="200.332,439.921 200.425,439.921 " />
+<polyline points="200.894,440.061 201.142,440.061 " />
+<polyline points="200.332,440.061 200.308,440.061 " />
+<polyline points="200.87,440.403 200.87,439.921 " />
+<polyline points="200.332,440.403 200.332,439.921 " />
+<path d="M106.571,400.843  A1.3152,1.3152 0 0,0 105.255,399.528 " />
+<polyline points="106.571,400.843 106.571,403.967 " />
+<polyline points="101.099,403.965 101.099,400.834 " />
+<polyline points="105.255,405.282 102.132,405.282 " />
+<polyline points="102.132,399.528 105.255,399.528 " />
+<path d="M105.255,405.282  A1.3152,1.3152 0 0,0 106.571,403.967 " />
+<path d="M100.817,403.967  A1.3152,1.3152 0 0,0 102.132,405.282 " />
+<polyline points="100.817,403.967 100.817,400.843 " />
+<path d="M102.132,399.528  A1.3152,1.3152 0 0,0 100.817,400.843 " />
+<polyline points="101,403.965 101,400.834 " />
+<polyline points="101.199,403.965 101.199,400.834 " />
+<polyline points="100.551,403.965 100.551,400.834 " />
+<polyline points="100.651,403.965 100.651,400.834 " />
+<polyline points="100.452,403.965 100.452,400.834 " />
+<polyline points="101.295,400.834 100.356,400.834 100.356,400.771 101.295,400.771 101.295,400.834 " />
+<polyline points="100.551,409.451 100.551,412.582 " />
+<polyline points="101,409.451 101,412.582 " />
+<polyline points="101.099,409.451 101.099,412.582 " />
+<polyline points="101.199,409.451 101.199,412.582 " />
+<polyline points="100.651,409.451 100.651,412.582 " />
+<polyline points="100.452,409.451 100.452,412.582 " />
+<polyline points="101.295,412.582 100.356,412.582 100.356,412.645 101.295,412.645 101.295,412.582 " />
+<polyline points="101.295,409.451 100.356,409.451 100.356,409.388 101.295,409.388 101.295,409.451 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(255,127,0)" stroke-width="0.35" >
+<polyline points="567.434,355.825 567.434,346.431 573.697,346.431 573.697,355.825 567.434,355.825 " />
+<polyline points="551.15,355.825 551.15,346.431 557.413,346.431 557.413,355.825 551.15,355.825 " />
+<polyline points="567.434,448.985 567.434,458.379 573.697,458.379 573.697,448.985 567.434,448.985 " />
+<polyline points="551.15,448.985 551.15,458.379 557.413,458.379 557.413,448.985 551.15,448.985 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="639.61,393.872 639.61,393.011 " />
+<polyline points="639.61,393.011 639.457,393.011 " />
+<polyline points="639.61,393.872 639.457,393.872 " />
+<polyline points="639.737,392.932 639.457,392.932 " />
+<polyline points="639.737,392.932 639.737,393.691 " />
+<polyline points="639.737,393.691 639.61,393.691 " />
+<polyline points="640.011,393.302 640.011,393.417 " />
+<polyline points="640.011,393.417 639.61,393.417 " />
+<polyline points="639.457,392.932 639.457,386.043 " />
+<polyline points="639.741,386.043 639.741,385.677 " />
+<polyline points="639.741,385.677 640.051,385.677 " />
+<polyline points="640.051,385.677 640.051,393.302 " />
+<polyline points="639.737,393.302 640.051,393.302 " />
+<polyline points="639.61,393.09 639.737,393.09 " />
+<polyline points="639.737,393.027 639.61,393.027 " />
+<polyline points="639.61,393.27 639.737,393.27 " />
+<polyline points="639.737,393.208 639.61,393.208 " />
+<polyline points="639.61,385.771 639.741,385.771 " />
+<polyline points="639.741,385.708 639.61,385.708 " />
+<polyline points="639.61,385.951 639.741,385.951 " />
+<polyline points="639.741,385.889 639.61,385.889 " />
+<polyline points="639.61,385.965 639.61,385.104 " />
+<polyline points="639.457,385.104 639.457,385.965 " />
+<polyline points="639.457,385.965 639.61,385.965 " />
+<polyline points="639.457,385.104 639.61,385.104 " />
+<polyline points="639.457,386.043 639.741,386.043 " />
+<polyline points="640.051,387.08 640.512,386.892 " />
+<polyline points="640.512,386.892 640.512,385.401 " />
+<polyline points="640.512,385.401 640.228,385.32 " />
+<polyline points="639.613,385.25 639.613,385.643 " />
+<polyline points="639.613,385.643 640.23,385.643 " />
+<polyline points="640.23,385.643 640.23,385.25 " />
+<polyline points="640.23,385.25 639.613,385.25 " />
+<polyline points="640.087,385.643 640.087,387.065 " />
+<polyline points="639.457,386.922 639.075,386.922 " />
+<polyline points="639.075,386.922 639.075,386.3 " />
+<polyline points="639.075,386.3 639.457,386.3 " />
+<path d="M639.075,386.3  A0.544944,0.544944 0 0,0 639.075,386.922 " />
+<polyline points="639.457,393.011 639.457,393.872 " />
+<path d="M639.737,393.691  A0.274,0.274 0 0,0 640.011,393.417 " />
+<polyline points="639.737,393.417 639.931,393.61 " />
+<polyline points="640.077,393.289 640.14,393.289 " />
+<polyline points="640.257,393.289 640.321,393.289 " />
+<polyline points="640.415,393.417 640.415,393.136 " />
+<polyline points="640.415,393.417 639.657,393.417 " />
+<polyline points="640.046,393.691 639.931,393.691 " />
+<polyline points="639.931,393.691 639.931,393.61 " />
+<polyline points="640.415,393.136 647.304,393.136 " />
+<polyline points="647.304,393.42 647.671,393.42 " />
+<polyline points="647.671,393.42 647.671,393.731 " />
+<polyline points="647.671,393.731 640.046,393.731 " />
+<polyline points="640.046,393.417 640.046,393.731 " />
+<polyline points="640.257,393.289 640.257,393.417 " />
+<polyline points="640.321,393.417 640.321,393.289 " />
+<polyline points="640.077,393.289 640.077,393.417 " />
+<polyline points="640.14,393.417 640.14,393.289 " />
+<polyline points="647.576,393.289 647.576,393.42 " />
+<polyline points="647.64,393.42 647.64,393.289 " />
+<polyline points="647.396,393.289 647.396,393.42 " />
+<polyline points="647.459,393.42 647.459,393.289 " />
+<polyline points="647.396,393.289 647.459,393.289 " />
+<polyline points="647.576,393.289 647.64,393.289 " />
+<polyline points="647.304,393.136 647.304,393.42 " />
+<polyline points="646.268,393.731 646.455,394.192 " />
+<polyline points="646.455,394.192 647.947,394.192 " />
+<polyline points="647.947,394.192 648.027,393.907 " />
+<polyline points="648.097,393.293 647.704,393.293 " />
+<polyline points="647.704,393.293 647.704,393.909 " />
+<polyline points="647.704,393.909 648.097,393.909 " />
+<polyline points="648.097,393.909 648.097,393.293 " />
+<polyline points="647.704,393.767 646.282,393.767 " />
+<polyline points="646.425,393.136 646.425,392.755 " />
+<polyline points="646.425,392.755 647.047,392.755 " />
+<polyline points="647.047,392.755 647.047,393.136 " />
+<path d="M647.047,392.755  A0.544944,0.544944 0 0,0 646.425,392.755 " />
+<path d="M639.834,393.673  A0.274,0.274 0 0,0 639.931,393.691 " />
+<path d="M648.097,393.293  A8.2607,8.2607 0 0,0 640.23,385.25 " />
+<polyline points="644.274,367.798 646.738,367.798 646.738,367.789 " />
+<polyline points="646.738,367.789 644.274,367.789 " />
+<polyline points="641.892,368.428 641.892,368.392 " />
+<polyline points="642.043,368.428 642.043,368.392 " />
+<polyline points="641.923,368.334 642.008,368.334 " />
+<polyline points="642.008,368.388 641.923,368.388 " />
+<polyline points="641.892,368.392 642.043,368.392 " />
+<polyline points="641.892,368.33 642.043,368.33 " />
+<polyline points="642.052,368.334 642.052,368.388 " />
+<polyline points="642.008,368.334 642.008,368.388 " />
+<polyline points="642.008,368.334 642.052,368.334 " />
+<polyline points="642.052,368.334 642.043,368.33 " />
+<polyline points="642.044,368.392 642.008,368.388 " />
+<polyline points="642.052,368.388 642.043,368.392 " />
+<polyline points="641.878,368.334 641.878,368.388 " />
+<polyline points="641.923,368.334 641.923,368.388 " />
+<polyline points="641.878,368.334 641.923,368.334 " />
+<polyline points="641.878,368.334 641.892,368.33 " />
+<polyline points="641.923,368.388 641.89,368.392 " />
+<polyline points="641.878,368.388 641.892,368.392 " />
+<polyline points="641.892,368.428 642.043,368.428 " />
+<polyline points="642.008,368.437 641.923,368.437 " />
+<polyline points="641.918,368.428 641.923,368.437 " />
+<polyline points="641.923,368.428 641.923,368.437 " />
+<polyline points="642.008,368.428 642.008,368.437 " />
+<polyline points="642.017,368.428 642.008,368.437 " />
+<polyline points="641.28,367.664 641.374,367.664 " />
+<polyline points="641.414,367.664 641.517,367.664 " />
+<polyline points="641.28,367.664 641.28,367.664 " />
+<polyline points="642.264,367.999 642.412,367.999 " />
+<polyline points="642.264,368.066 642.412,368.066 " />
+<polyline points="642.298,368.124 642.374,368.124 " />
+<polyline points="642.262,367.919 642.41,367.919 " />
+<polyline points="642.267,367.91 642.405,367.91 " />
+<polyline points="642.427,367.928 641.811,367.928 641.811,367.99 642.427,367.99 642.427,367.928 " />
+<polyline points="642.441,368.008 642.244,368.008 " />
+<polyline points="642.099,367.928 642.099,367.901 641.836,367.901 641.836,367.928 " />
+<polyline points="642.128,367.865 642.128,367.928 " />
+<polyline points="642.204,367.928 642.204,367.785 " />
+<polyline points="642.789,367.861 642.789,367.91 642.244,367.91 642.244,367.861 642.789,367.861 " />
+<polyline points="641.78,368.187 642.151,368.187 " />
+<polyline points="641.78,368.196 642.156,368.196 " />
+<polyline points="641.842,368.048 642.093,368.048 " />
+<polyline points="641.842,367.99 641.842,368.04 642.093,368.04 642.093,367.99 " />
+<polyline points="642.057,368.33 642.043,368.33 " />
+<polyline points="641.892,368.33 641.878,368.33 " />
+<polyline points="642.061,368.325 641.874,368.325 " />
+<polyline points="642.061,368.325 642.057,368.33 " />
+<polyline points="641.874,368.325 641.874,368.312 " />
+<polyline points="641.874,368.325 641.878,368.33 " />
+<polyline points="642.061,368.312 642.061,368.325 " />
+<polyline points="641.78,368.187 641.78,368.196 " />
+<polyline points="644.149,368.397 644.082,368.518 644.082,368.518 643.91,368.62 642.581,368.62 642.581,368.62 642.476,368.586 642.099,368.316 642.099,368.316 642.087,368.312 641.86,368.312 641.86,368.312 641.842,368.301 641.78,368.196 " />
+<polyline points="641.847,368.04 641.842,368.048 " />
+<polyline points="642.151,368.187 642.151,368.189 642.151,368.189 642.171,368.211 642.566,368.485 642.566,368.485 642.597,368.495 643.916,368.495 643.916,368.495 643.986,368.451 644.04,368.341 " />
+<polyline points="642.407,368.008 642.412,367.999 642.412,367.995 642.264,367.995 642.264,367.999 642.269,368.008 " />
+<polyline points="642.407,368.057 642.412,368.066 642.412,368.075 642.264,368.075 642.264,368.066 642.269,368.057 " />
+<polyline points="642.374,368.075 642.374,368.124 642.369,368.129 642.302,368.129 642.298,368.124 642.298,368.075 " />
+<polyline points="642.789,368.057 642.789,368.008 642.244,368.008 642.244,368.057 642.789,368.057 " />
+<polyline points="642.204,367.928 642.204,367.923 " />
+<polyline points="642.204,367.923 642.204,367.915 " />
+<polyline points="642.262,367.919 642.267,367.91 " />
+<polyline points="642.262,367.928 642.262,367.919 " />
+<polyline points="642.084,368.04 642.093,368.048 " />
+<polyline points="642.188,367.803 642.188,367.865 641.746,367.865 641.746,367.803 642.188,367.803 " />
+<polyline points="642.124,367.865 642.124,367.897 641.811,367.897 641.811,367.865 " />
+<polyline points="641.811,367.803 641.811,367.539 " />
+<polyline points="642.128,367.785 642.128,367.803 " />
+<polyline points="642.128,367.785 642.204,367.785 " />
+<polyline points="642.137,367.781 642.2,367.781 " />
+<polyline points="642.128,367.785 642.137,367.781 " />
+<polyline points="642.088,367.897 642.088,367.897 " />
+<polyline points="642.204,367.785 642.2,367.781 " />
+<polyline points="642.088,367.901 642.088,367.897 " />
+<polyline points="642.124,367.803 642.124,367.539 " />
+<polyline points="642.731,367.928 642.731,367.99 642.543,367.99 642.543,367.928 642.731,367.928 " />
+<polyline points="642.41,367.919 642.405,367.91 " />
+<polyline points="642.41,367.919 642.41,367.928 " />
+<polyline points="643.314,368.133 644.154,368.133 644.721,368.133 644.721,368.071 644.154,368.071 643.314,368.071 643.314,368.071 643.283,368.102 643.314,368.133 " />
+<polyline points="644.203,368.196 644.105,368.196 " />
+<polyline points="644.198,368.2 644.114,368.2 " />
+<polyline points="644.091,368.187 644.216,368.187 " />
+<polyline points="644.114,368.147 644.198,368.147 " />
+<polyline points="644.06,368.053 644.248,368.053 " />
+<polyline points="644.248,368.066 644.06,368.066 " />
+<polyline points="644.091,368.156 644.221,368.156 " />
+<polyline points="644.024,367.539 644.024,367.736 644.274,367.736 644.274,367.539 " />
+<polyline points="644.274,368.004 644.274,367.749 644.243,367.749 644.069,367.749 644.038,367.749 644.038,368.004 " />
+<polyline points="644.082,368.173 644.082,368.182 " />
+<polyline points="644.082,368.182 644.091,368.187 " />
+<polyline points="644.105,368.196 644.105,368.187 " />
+<polyline points="644.114,368.2 644.114,368.187 " />
+<polyline points="644.114,368.2 644.105,368.196 " />
+<polyline points="644.114,368.147 644.114,368.133 " />
+<polyline points="644.065,368.071 644.06,368.066 644.06,368.053 " />
+<polyline points="644.069,368.147 644.069,368.133 " />
+<polyline points="644.082,368.173 644.082,368.151 " />
+<polyline points="644.069,368.147 644.082,368.151 " />
+<polyline points="644.087,368.004 644.091,368.004 " />
+<polyline points="644.038,368.004 644.069,368.004 " />
+<polyline points="644.082,368.151 644.114,368.147 " />
+<polyline points="644.154,368.004 644.721,368.004 644.721,368.053 643.998,368.053 643.998,368.004 644.154,368.004 " />
+<polyline points="644.216,368.187 644.225,368.182 " />
+<polyline points="644.225,368.182 644.23,368.173 " />
+<polyline points="644.198,368.2 644.203,368.196 " />
+<polyline points="644.198,368.2 644.198,368.187 " />
+<polyline points="644.203,368.196 644.203,368.187 " />
+<polyline points="644.243,368.147 644.243,368.133 " />
+<polyline points="644.198,368.147 644.198,368.133 " />
+<polyline points="644.23,368.173 644.23,368.151 " />
+<polyline points="644.198,368.147 644.23,368.151 " />
+<polyline points="644.23,368.151 644.243,368.147 " />
+<polyline points="644.661,368.151 644.661,368.205 644.585,368.205 644.585,368.173 644.585,368.151 " />
+<polyline points="644.694,368.151 644.551,368.151 " />
+<polyline points="644.556,368.138 644.69,368.138 " />
+<polyline points="644.551,368.142 644.694,368.142 " />
+<polyline points="644.551,368.151 644.551,368.142 " />
+<polyline points="644.551,368.142 644.556,368.138 " />
+<polyline points="644.694,368.057 644.551,368.057 " />
+<polyline points="644.551,368.066 644.694,368.066 " />
+<polyline points="644.551,368.057 644.551,368.066 " />
+<polyline points="644.551,368.066 644.556,368.071 " />
+<polyline points="646.796,367.539 646.796,367.75 646.796,367.75 646.784,367.778 646.756,367.789 646.671,367.789 646.671,367.772 646.755,367.772 646.755,367.772 646.771,367.765 646.778,367.749 646.778,367.539 " />
+<polyline points="647.363,367.959 647.363,367.932 647.363,367.932 647.359,367.923 647.349,367.919 646.979,367.919 646.979,367.919 646.947,367.906 646.934,367.874 646.934,367.66 646.934,367.66 646.929,367.647 646.916,367.642 646.894,367.642 646.894,367.959 647.363,367.959 " />
+<polyline points="647.032,367.664 646.934,367.664 " />
+<polyline points="647.081,367.727 646.934,367.727 " />
+<polyline points="646.894,367.664 646.796,367.664 " />
+<polyline points="641.226,367.727 641.226,367.615 641.226,367.615 641.263,367.527 641.351,367.49 646.956,367.49 646.956,367.49 647.045,367.527 647.081,367.615 647.081,367.727 " />
+<polyline points="644.024,367.7 642.124,367.7 " />
+<polyline points="641.811,367.7 641.517,367.7 641.517,367.539 641.534,367.539 641.534,367.7 " />
+<polyline points="647.173,367.389 647.058,367.426 647.058,367.426 647.043,367.428 646.514,367.428 646.514,367.428 646.502,367.433 646.496,367.446 646.496,367.49 647.027,367.49 647.027,367.49 647.056,367.5 647.178,367.587 " />
+<polyline points="647.344,367.404 647.372,367.432 " />
+<polyline points="647.358,367.432 647.372,367.432 " />
+<polyline points="647.18,367.374 647.184,367.374 " />
+<polyline points="647.18,367.374 647.161,367.393 " />
+<polyline points="641.818,367.49 641.818,367.446 642.117,367.446 642.117,367.49 " />
+<polyline points="642.099,367.414 642.099,367.441 641.836,367.441 641.836,367.414 " />
+<polyline points="640.981,367.633 640.981,367.633 " />
+<path d="M641.092,367.633  A0.0494284,0.0494284 0 0,0 641.088,367.615 " />
+<path d="M641.088,367.615  A0.0363939,0.0363939 0 0,0 641.079,367.602 " />
+<path d="M641.079,367.602  A0.0614394,0.0614394 0 0,0 641.063,367.592 " />
+<path d="M641.063,367.592  A0.0377645,0.0377645 0 0,0 641.048,367.589 " />
+<path d="M641.048,367.589  A0.0417862,0.0417862 0 0,0 641.031,367.592 " />
+<path d="M641.031,367.592  A0.0472381,0.0472381 0 0,0 641.016,367.602 " />
+<path d="M641.016,367.602  A0.0472381,0.0472381 0 0,0 641.006,367.617 " />
+<path d="M641.006,367.617  A0.0417862,0.0417862 0 0,0 641.003,367.633 " />
+<path d="M641.003,367.633  A0.0417862,0.0417862 0 0,0 641.006,367.65 " />
+<path d="M641.006,367.65  A0.0472381,0.0472381 0 0,0 641.016,367.664 " />
+<path d="M641.016,367.664  A0.0472381,0.0472381 0 0,0 641.031,367.674 " />
+<path d="M641.031,367.674  A0.0417862,0.0417862 0 0,0 641.048,367.678 " />
+<path d="M641.048,367.678  A0.0377645,0.0377645 0 0,0 641.063,367.675 " />
+<path d="M641.063,367.675  A0.0614394,0.0614394 0 0,0 641.079,367.664 " />
+<path d="M641.079,367.664  A0.0363939,0.0363939 0 0,0 641.088,367.651 " />
+<path d="M641.088,367.651  A0.0494284,0.0494284 0 0,0 641.092,367.633 " />
+<polyline points="641.092,367.633 641.092,367.633 " />
+<polyline points="641.106,367.544 640.99,367.544 " />
+<polyline points="640.958,367.696 640.958,367.919 " />
+<polyline points="641.137,367.919 641.137,367.727 " />
+<polyline points="641.249,367.544 640.99,367.544 640.99,367.544 640.958,367.575 640.958,367.696 640.958,367.696 640.99,367.727 641.374,367.727 " />
+<path d="M644.149,368.397  A0.0609758,0.0609758 0 1,0 644.04,368.341 " />
+<polyline points="641.842,368.187 641.842,368.048 " />
+<polyline points="642.093,368.187 642.093,368.048 " />
+<polyline points="641.847,367.897 641.847,367.897 " />
+<polyline points="641.847,367.901 641.847,367.897 " />
+<polyline points="642.564,368.066 642.711,368.066 " />
+<polyline points="642.597,368.124 642.673,368.124 " />
+<polyline points="642.706,368.057 642.711,368.066 642.711,368.075 642.564,368.075 642.564,368.066 642.568,368.057 " />
+<polyline points="642.673,368.075 642.673,368.124 642.668,368.129 642.602,368.129 642.597,368.124 642.597,368.075 " />
+<polyline points="642.564,367.999 642.711,367.999 " />
+<polyline points="642.561,367.919 642.709,367.919 " />
+<polyline points="642.566,367.91 642.704,367.91 " />
+<polyline points="642.706,368.008 642.711,367.999 642.711,367.995 642.564,367.995 642.564,367.999 642.568,368.008 " />
+<polyline points="642.561,367.919 642.566,367.91 " />
+<polyline points="642.561,367.928 642.561,367.919 " />
+<polyline points="642.709,367.919 642.704,367.91 " />
+<polyline points="642.709,367.919 642.709,367.928 " />
+<polyline points="641.78,367.414 642.151,367.414 " />
+<polyline points="641.78,367.405 642.156,367.405 " />
+<polyline points="641.78,367.414 641.78,367.405 " />
+<polyline points="644.149,367.204 644.082,367.083 644.082,367.083 643.91,366.981 642.581,366.981 642.581,366.981 642.476,367.015 642.099,367.285 642.099,367.285 642.087,367.289 641.86,367.289 641.86,367.289 641.842,367.3 641.78,367.405 " />
+<polyline points="642.151,367.414 642.151,367.413 642.151,367.413 642.171,367.391 642.566,367.116 642.566,367.116 642.597,367.106 643.916,367.106 643.916,367.106 643.986,367.15 644.04,367.26 " />
+<path d="M644.04,367.26  A0.0609758,0.0609758 0 1,0 644.149,367.204 " />
+<polyline points="644.069,367.749 644.069,367.743 644.069,367.743 644.076,367.736 " />
+<polyline points="644.239,367.749 644.239,367.743 644.239,367.743 644.232,367.736 " />
+<polyline points="644.243,368.071 644.248,368.066 644.248,368.053 " />
+<polyline points="644.694,368.057 644.694,368.066 " />
+<polyline points="644.694,368.066 644.69,368.071 " />
+<polyline points="644.694,368.151 644.694,368.142 " />
+<polyline points="644.694,368.142 644.69,368.138 " />
+<polyline points="644.634,368.16 644.611,368.16 644.611,368.16 644.603,368.169 644.611,368.178 644.634,368.178 644.634,368.178 644.643,368.169 644.634,368.16 " />
+<circle cx="647.247" cy="367.49" r="0.0446497" />
+<path d="M647.295,367.505  A0.0506783,0.0506783 0 1,0 647.236,367.54 " />
+<polyline points="640.945,367.959 640.945,367.932 640.945,367.932 640.949,367.923 640.958,367.919 641.329,367.919 641.329,367.919 641.361,367.906 641.374,367.874 641.374,367.66 641.374,367.66 641.379,367.647 641.392,367.642 641.414,367.642 641.414,367.959 640.945,367.959 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.1" >
+<polyline points="641.12,367.959 641.12,367.959 " />
+<polyline points="647.187,367.959 647.187,367.959 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="647.184,367.861 647.309,367.861 " />
+<polyline points="647.372,367.432 647.372,367.548 " />
+<polyline points="647.372,367.731 647.372,367.919 " />
+<polyline points="647.372,367.919 647.122,367.919 " />
+<polyline points="647.122,367.919 647.122,367.731 " />
+<polyline points="647.122,367.731 647.372,367.731 " />
+<polyline points="647.139,367.821 647.139,367.776 " />
+<polyline points="647.193,367.821 647.193,367.776 " />
+<polyline points="647.354,367.821 647.354,367.776 " />
+<polyline points="647.3,367.821 647.3,367.776 " />
+<polyline points="647.193,367.87 647.3,367.87 " />
+<polyline points="647.166,367.83 647.327,367.83 " />
+<polyline points="647.184,367.861 647.184,367.83 " />
+<polyline points="647.193,367.821 647.3,367.821 " />
+<polyline points="647.166,367.83 647.193,367.821 " />
+<polyline points="647.3,367.776 647.193,367.776 " />
+<polyline points="647.193,367.776 647.166,367.767 " />
+<polyline points="647.139,367.821 647.166,367.83 " />
+<polyline points="647.166,367.767 647.139,367.776 " />
+<polyline points="647.327,367.83 647.354,367.821 " />
+<polyline points="647.354,367.776 647.327,367.767 " />
+<polyline points="647.166,367.767 647.327,367.767 " />
+<polyline points="647.327,367.767 647.3,367.776 " />
+<polyline points="647.3,367.821 647.327,367.83 " />
+<polyline points="647.3,367.87 647.309,367.861 " />
+<polyline points="647.309,367.861 647.309,367.83 " />
+<polyline points="647.193,367.87 647.184,367.861 " />
+<polyline points="647.13,367.767 647.372,367.767 " />
+<polyline points="647.13,367.767 647.122,367.767 " />
+<polyline points="647.139,367.696 647.139,367.651 " />
+<polyline points="647.193,367.696 647.3,367.696 " />
+<polyline points="647.166,367.705 647.193,367.696 " />
+<polyline points="647.3,367.651 647.193,367.651 " />
+<polyline points="647.193,367.651 647.166,367.642 " />
+<polyline points="647.3,367.696 647.3,367.651 " />
+<polyline points="647.193,367.696 647.193,367.651 " />
+<polyline points="647.139,367.696 647.166,367.705 " />
+<polyline points="647.166,367.642 647.139,367.651 " />
+<polyline points="647.327,367.705 647.354,367.696 " />
+<polyline points="647.354,367.651 647.327,367.642 " />
+<polyline points="647.354,367.696 647.354,367.651 " />
+<polyline points="647.166,367.642 647.327,367.642 " />
+<polyline points="647.247,367.705 647.26,367.705 " />
+<polyline points="647.327,367.642 647.3,367.651 " />
+<polyline points="647.3,367.696 647.327,367.705 " />
+<polyline points="647.349,367.705 647.349,367.731 " />
+<polyline points="647.144,367.731 647.144,367.705 " />
+<polyline points="647.251,367.731 647.26,367.705 " />
+<polyline points="647.238,367.731 647.247,367.705 " />
+<polyline points="647.144,367.705 647.247,367.705 " />
+<polyline points="647.144,367.731 647.238,367.731 " />
+<polyline points="647.251,367.731 647.349,367.731 " />
+<polyline points="647.26,367.705 647.349,367.705 " />
+<polyline points="647.372,367.731 647.314,367.731 647.122,367.731 " />
+<polyline points="647.3,367.642 647.309,367.615 " />
+<polyline points="647.282,367.606 647.309,367.606 " />
+<polyline points="647.282,367.606 647.309,367.606 " />
+<polyline points="647.189,367.642 647.184,367.615 " />
+<polyline points="647.18,367.606 647.206,367.606 " />
+<polyline points="647.184,367.642 647.184,367.615 " />
+<polyline points="647.309,367.642 647.309,367.615 " />
+<polyline points="647.314,367.606 647.309,367.615 " />
+<polyline points="647.314,367.606 647.372,367.548 " />
+<polyline points="647.372,367.548 647.358,367.548 " />
+<polyline points="647.184,367.606 647.206,367.606 " />
+<polyline points="647.184,367.615 647.18,367.606 " />
+<polyline points="647.18,367.606 647.122,367.548 " />
+<polyline points="647.032,367.727 647.032,367.615 647.032,367.615 646.956,367.539 641.967,367.539 641.351,367.539 641.351,367.539 641.28,367.611 641.28,367.727 " />
+<polyline points="647.291,367.414 647.336,367.49 647.291,367.562 647.202,367.562 647.162,367.49 647.202,367.414 647.291,367.414 " />
+<polyline points="647.01,367.276 647.122,367.276 647.122,367.276 647.197,367.2 647.197,362.211 647.197,361.595 647.197,361.595 647.126,361.524 647.01,361.524 " />
+<polyline points="646.938,364.518 646.938,366.981 646.947,366.981 " />
+<polyline points="646.947,366.981 646.947,364.518 " />
+<polyline points="646.309,362.135 646.345,362.135 " />
+<polyline points="646.309,362.287 646.345,362.287 " />
+<polyline points="646.403,362.167 646.403,362.251 " />
+<polyline points="646.349,362.251 646.349,362.167 " />
+<polyline points="646.345,362.135 646.345,362.287 " />
+<polyline points="646.407,362.135 646.407,362.287 " />
+<polyline points="646.403,362.296 646.349,362.296 " />
+<polyline points="646.403,362.251 646.349,362.251 " />
+<polyline points="646.403,362.251 646.403,362.296 " />
+<polyline points="646.403,362.296 646.407,362.287 " />
+<polyline points="646.345,362.288 646.349,362.251 " />
+<polyline points="646.349,362.296 646.345,362.287 " />
+<polyline points="646.403,362.122 646.349,362.122 " />
+<polyline points="646.403,362.167 646.349,362.167 " />
+<polyline points="646.403,362.122 646.403,362.167 " />
+<polyline points="646.403,362.122 646.407,362.135 " />
+<polyline points="646.349,362.167 646.345,362.134 " />
+<polyline points="646.349,362.122 646.345,362.135 " />
+<polyline points="646.309,362.135 646.309,362.287 " />
+<polyline points="646.3,362.251 646.3,362.167 " />
+<polyline points="646.309,362.162 646.3,362.167 " />
+<polyline points="646.309,362.167 646.3,362.167 " />
+<polyline points="646.309,362.251 646.3,362.251 " />
+<polyline points="646.309,362.26 646.3,362.251 " />
+<polyline points="647.072,361.524 647.072,361.658 " />
+<polyline points="647.072,361.658 647.072,361.76 " />
+<polyline points="647.072,361.524 647.072,361.524 " />
+<polyline points="646.738,362.508 646.738,362.656 " />
+<polyline points="646.671,362.508 646.671,362.656 " />
+<polyline points="646.613,362.542 646.613,362.618 " />
+<polyline points="646.818,362.506 646.818,362.653 " />
+<polyline points="646.827,362.51 646.827,362.649 " />
+<polyline points="646.809,362.671 646.809,362.055 646.746,362.055 646.746,362.671 646.809,362.671 " />
+<polyline points="646.729,362.685 646.729,362.488 " />
+<polyline points="646.809,362.343 646.836,362.343 646.836,362.08 646.809,362.08 " />
+<polyline points="646.872,362.372 646.809,362.372 " />
+<polyline points="646.809,362.448 646.952,362.448 " />
+<polyline points="646.876,363.033 646.827,363.033 646.827,362.488 646.876,362.488 646.876,363.033 " />
+<polyline points="646.55,362.024 646.55,362.394 " />
+<polyline points="646.541,362.024 646.541,362.399 " />
+<polyline points="646.688,362.086 646.688,362.337 " />
+<polyline points="646.746,362.086 646.697,362.086 646.697,362.336 646.746,362.336 " />
+<polyline points="646.407,362.301 646.407,362.287 " />
+<polyline points="646.407,362.135 646.407,362.122 " />
+<polyline points="646.412,362.305 646.412,362.117 " />
+<polyline points="646.412,362.305 646.407,362.301 " />
+<polyline points="646.412,362.117 646.425,362.117 " />
+<polyline points="646.412,362.117 646.407,362.122 " />
+<polyline points="646.425,362.305 646.412,362.305 " />
+<polyline points="646.55,362.024 646.541,362.024 " />
+<polyline points="646.34,364.392 646.219,364.326 646.219,364.326 646.117,364.154 646.117,362.824 646.117,362.824 646.151,362.719 646.421,362.343 646.421,362.343 646.425,362.33 646.425,362.103 646.425,362.103 646.435,362.085 646.541,362.024 " />
+<polyline points="646.697,362.09 646.688,362.086 " />
+<polyline points="646.55,362.394 646.548,362.395 646.548,362.395 646.526,362.414 646.252,362.81 646.252,362.81 646.242,362.841 646.242,364.16 646.242,364.16 646.286,364.23 646.396,364.284 " />
+<polyline points="646.729,362.651 646.738,362.656 646.742,362.656 646.742,362.508 646.738,362.508 646.729,362.513 " />
+<polyline points="646.68,362.651 646.671,362.656 646.662,362.656 646.662,362.508 646.671,362.508 646.68,362.513 " />
+<polyline points="646.662,362.618 646.613,362.618 646.608,362.613 646.608,362.546 646.613,362.542 646.662,362.542 " />
+<polyline points="646.68,363.033 646.729,363.033 646.729,362.488 646.68,362.488 646.68,363.033 " />
+<polyline points="646.809,362.448 646.813,362.448 " />
+<polyline points="646.813,362.448 646.822,362.448 " />
+<polyline points="646.818,362.506 646.827,362.51 " />
+<polyline points="646.809,362.506 646.818,362.506 " />
+<polyline points="646.697,362.328 646.688,362.337 " />
+<polyline points="646.934,362.432 646.872,362.432 646.872,361.99 646.934,361.99 646.934,362.432 " />
+<polyline points="646.872,362.368 646.84,362.368 646.84,362.055 646.872,362.055 " />
+<polyline points="646.934,362.055 647.197,362.055 " />
+<polyline points="646.952,362.372 646.934,362.372 " />
+<polyline points="646.952,362.372 646.952,362.448 " />
+<polyline points="646.956,362.381 646.956,362.443 " />
+<polyline points="646.952,362.372 646.956,362.381 " />
+<polyline points="646.84,362.332 646.84,362.332 " />
+<polyline points="646.952,362.448 646.956,362.443 " />
+<polyline points="646.836,362.332 646.84,362.332 " />
+<polyline points="646.934,362.368 647.197,362.368 " />
+<polyline points="646.809,362.975 646.746,362.975 646.746,362.787 646.809,362.787 646.809,362.975 " />
+<polyline points="646.818,362.653 646.827,362.649 " />
+<polyline points="646.818,362.653 646.809,362.653 " />
+<polyline points="646.604,363.558 646.604,364.398 646.604,364.965 646.666,364.965 646.666,364.398 646.666,363.558 646.666,363.558 646.635,363.527 646.604,363.558 " />
+<polyline points="646.541,364.447 646.541,364.348 " />
+<polyline points="646.537,364.442 646.537,364.357 " />
+<polyline points="646.55,364.335 646.55,364.46 " />
+<polyline points="646.59,364.357 646.59,364.442 " />
+<polyline points="646.684,364.304 646.684,364.491 " />
+<polyline points="646.671,364.491 646.671,364.304 " />
+<polyline points="646.581,364.335 646.581,364.465 " />
+<polyline points="647.197,364.268 647.001,364.268 647.001,364.518 647.197,364.518 " />
+<polyline points="646.733,364.518 646.988,364.518 646.988,364.487 646.988,364.313 646.988,364.282 646.733,364.282 " />
+<polyline points="646.563,364.326 646.554,364.326 " />
+<polyline points="646.554,364.326 646.55,364.335 " />
+<polyline points="646.541,364.348 646.55,364.348 " />
+<polyline points="646.537,364.357 646.55,364.357 " />
+<polyline points="646.537,364.357 646.541,364.348 " />
+<polyline points="646.59,364.357 646.604,364.357 " />
+<polyline points="646.666,364.308 646.671,364.304 646.684,364.304 " />
+<polyline points="646.59,364.313 646.604,364.313 " />
+<polyline points="646.563,364.326 646.586,364.326 " />
+<polyline points="646.59,364.313 646.586,364.326 " />
+<polyline points="646.733,364.331 646.733,364.335 " />
+<polyline points="646.733,364.282 646.733,364.313 " />
+<polyline points="646.586,364.326 646.59,364.357 " />
+<polyline points="646.733,364.398 646.733,364.965 646.684,364.965 646.684,364.241 646.733,364.241 646.733,364.398 " />
+<polyline points="646.55,364.46 646.554,364.469 " />
+<polyline points="646.554,364.469 646.563,364.473 " />
+<polyline points="646.537,364.442 646.541,364.447 " />
+<polyline points="646.537,364.442 646.55,364.442 " />
+<polyline points="646.541,364.447 646.55,364.447 " />
+<polyline points="646.59,364.487 646.604,364.487 " />
+<polyline points="646.59,364.442 646.604,364.442 " />
+<polyline points="646.563,364.473 646.586,364.473 " />
+<polyline points="646.59,364.442 646.586,364.473 " />
+<polyline points="646.586,364.473 646.59,364.487 " />
+<polyline points="646.586,364.904 646.532,364.904 646.532,364.828 646.563,364.828 646.586,364.828 " />
+<polyline points="646.586,364.938 646.586,364.795 " />
+<polyline points="646.599,364.799 646.599,364.933 " />
+<polyline points="646.595,364.795 646.595,364.938 " />
+<polyline points="646.586,364.795 646.595,364.795 " />
+<polyline points="646.595,364.795 646.599,364.799 " />
+<polyline points="646.68,364.938 646.68,364.795 " />
+<polyline points="646.671,364.795 646.671,364.938 " />
+<polyline points="646.68,364.795 646.671,364.795 " />
+<polyline points="646.671,364.795 646.666,364.799 " />
+<polyline points="647.197,367.039 646.987,367.039 646.987,367.039 646.959,367.028 646.947,367 646.947,366.914 646.965,366.914 646.965,366.999 646.965,366.999 646.972,367.015 646.988,367.022 647.197,367.022 " />
+<polyline points="647.072,367.276 647.072,367.178 " />
+<polyline points="647.01,367.325 647.01,367.276 " />
+<polyline points="647.072,367.178 647.072,367.039 " />
+<polyline points="647.01,361.47 647.122,361.47 647.122,361.47 647.21,361.507 647.247,361.595 647.247,367.2 647.247,367.2 647.21,367.289 647.122,367.325 647.01,367.325 " />
+<polyline points="647.037,364.268 647.037,362.368 " />
+<polyline points="647.037,362.055 647.037,361.76 647.197,361.76 647.197,361.778 647.037,361.778 " />
+<polyline points="647.15,367.422 647.159,367.57 647.305,367.593 647.359,367.455 647.311,367.301 647.311,367.301 647.309,367.287 647.309,366.758 647.309,366.758 647.304,366.745 647.291,366.74 647.247,366.74 647.247,367.271 647.247,367.271 647.237,367.3 647.15,367.422 " />
+<polyline points="647.247,362.062 647.291,362.062 647.291,362.361 647.247,362.361 " />
+<polyline points="647.322,362.343 647.296,362.343 647.296,362.08 647.322,362.08 " />
+<polyline points="647.104,361.224 647.104,361.224 " />
+<path d="M647.104,361.336  A0.0494284,0.0494284 0 0,0 647.122,361.332 " />
+<path d="M647.122,361.332  A0.0363939,0.0363939 0 0,0 647.135,361.323 " />
+<path d="M647.135,361.323  A0.0614394,0.0614394 0 0,0 647.145,361.306 " />
+<path d="M647.145,361.306  A0.0377645,0.0377645 0 0,0 647.148,361.291 " />
+<path d="M647.148,361.291  A0.0417862,0.0417862 0 0,0 647.145,361.275 " />
+<path d="M647.145,361.275  A0.0472381,0.0472381 0 0,0 647.135,361.26 " />
+<path d="M647.135,361.26  A0.0472381,0.0472381 0 0,0 647.12,361.25 " />
+<path d="M647.12,361.25  A0.0417862,0.0417862 0 0,0 647.104,361.247 " />
+<path d="M647.104,361.247  A0.0417862,0.0417862 0 0,0 647.087,361.25 " />
+<path d="M647.087,361.25  A0.0472381,0.0472381 0 0,0 647.072,361.26 " />
+<path d="M647.072,361.26  A0.0472381,0.0472381 0 0,0 647.062,361.275 " />
+<path d="M647.062,361.275  A0.0417862,0.0417862 0 0,0 647.059,361.291 " />
+<path d="M647.059,361.291  A0.0377645,0.0377645 0 0,0 647.062,361.306 " />
+<path d="M647.062,361.306  A0.0614394,0.0614394 0 0,0 647.072,361.323 " />
+<path d="M647.072,361.323  A0.0363939,0.0363939 0 0,0 647.085,361.332 " />
+<path d="M647.085,361.332  A0.0494284,0.0494284 0 0,0 647.104,361.336 " />
+<polyline points="647.104,361.336 647.104,361.336 " />
+<polyline points="647.193,361.35 647.193,361.233 " />
+<polyline points="647.193,361.492 647.193,361.233 647.193,361.233 647.162,361.202 647.041,361.202 647.041,361.202 647.01,361.233 647.01,361.524 " />
+<path d="M646.34,364.392  A0.0609758,0.0609758 0 1,0 646.396,364.284 " />
+<polyline points="646.55,362.086 646.688,362.086 " />
+<polyline points="646.55,362.337 646.688,362.337 " />
+<polyline points="646.84,362.091 646.84,362.091 " />
+<polyline points="646.836,362.091 646.84,362.091 " />
+<polyline points="646.671,362.807 646.671,362.955 " />
+<polyline points="646.613,362.841 646.613,362.917 " />
+<polyline points="646.68,362.95 646.671,362.955 646.662,362.955 646.662,362.807 646.671,362.807 646.68,362.812 " />
+<polyline points="646.662,362.917 646.613,362.917 646.608,362.912 646.608,362.845 646.613,362.841 646.662,362.841 " />
+<polyline points="646.738,362.807 646.738,362.955 " />
+<polyline points="646.818,362.805 646.818,362.952 " />
+<polyline points="646.827,362.81 646.827,362.948 " />
+<polyline points="646.729,362.95 646.738,362.955 646.742,362.955 646.742,362.807 646.738,362.807 646.729,362.812 " />
+<polyline points="646.818,362.805 646.827,362.81 " />
+<polyline points="646.809,362.805 646.818,362.805 " />
+<polyline points="646.818,362.952 646.827,362.948 " />
+<polyline points="646.818,362.952 646.809,362.952 " />
+<polyline points="647.322,362.024 647.322,362.394 " />
+<polyline points="647.331,362.024 647.331,362.399 " />
+<polyline points="647.322,362.024 647.331,362.024 " />
+<polyline points="647.533,364.392 647.654,364.326 647.654,364.326 647.756,364.154 647.756,362.824 647.756,362.824 647.722,362.719 647.451,362.343 647.451,362.343 647.447,362.33 647.447,362.103 647.447,362.103 647.437,362.085 647.331,362.024 " />
+<polyline points="647.322,362.394 647.324,362.395 647.324,362.395 647.346,362.414 647.621,362.81 647.621,362.81 647.631,362.841 647.631,364.16 647.631,364.16 647.587,364.23 647.477,364.284 " />
+<path d="M647.477,364.284  A0.0609758,0.0609758 0 1,0 647.533,364.392 " />
+<polyline points="646.988,364.313 646.994,364.313 646.994,364.313 647.001,364.319 " />
+<polyline points="646.988,364.482 646.994,364.482 646.994,364.482 647.001,364.476 " />
+<polyline points="646.666,364.487 646.671,364.491 646.684,364.491 " />
+<polyline points="646.68,364.938 646.671,364.938 " />
+<polyline points="646.671,364.938 646.666,364.933 " />
+<polyline points="646.586,364.938 646.595,364.938 " />
+<polyline points="646.595,364.938 646.599,364.933 " />
+<polyline points="646.577,364.878 646.577,364.855 646.577,364.855 646.568,364.846 646.559,364.855 646.559,364.878 646.559,364.878 646.568,364.887 646.577,364.878 " />
+<path d="M647.01,361.47  A6.02491,6.02491 0 0,0 641.226,367.727 " />
+<polyline points="648.07,381.976 648.069,379.539 " />
+<polyline points="648.069,372.819 648.069,370.382 " />
+<polyline points="648.069,378.713 648.069,373.645 " />
+<polyline points="647.269,372.819 647.269,373.645 " />
+<polyline points="648.87,379.175 648.87,379.539 " />
+<polyline points="647.269,379.539 647.269,378.713 " />
+<polyline points="649.766,373.645 649.766,373.183 " />
+<polyline points="648.87,373.183 648.87,372.819 " />
+<polyline points="649.766,378.713 649.766,379.175 " />
+<polyline points="647.269,378.713 649.766,378.713 " />
+<polyline points="649.766,379.175 647.269,379.175 " />
+<polyline points="649.766,373.183 647.269,373.183 " />
+<polyline points="648.87,379.539 647.269,379.539 " />
+<polyline points="647.269,373.645 649.766,373.645 " />
+<polyline points="648.87,372.819 647.269,372.819 " />
+<polyline points="648.069,370.382 648.069,370.184 " />
+<path d="M648.07,381.976  A1.17429,1.17429 0 0,0 649.243,383.101 " />
+<polyline points="660.986,383.101 649.243,383.101 " />
+<path d="M649.243,369.009  A1.17429,1.17429 0 0,0 648.069,370.184 " />
+<polyline points="662.16,370.184 662.16,381.927 " />
+<path d="M662.16,370.184  A1.17429,1.17429 0 0,0 660.986,369.009 " />
+<polyline points="649.243,369.009 660.986,369.009 " />
+<path d="M660.986,383.101  A1.17429,1.17429 0 0,0 662.16,381.927 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.05" >
+<text transform="matrix(-1.87886 -2.30086e-016 2.87608e-016 -2.34857 191.95 363.421)" font-size="1.28571" style="font-family: romand" >-</text>
+</g>
+<g clip-path="url(#clipId0)" fill="rgb(183,183,183)" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<path d="M191.982,363.301 191.982,363.301 189.634,362.91 189.634,363.693 z" />
+<path d="M189.634,363.379 189.634,363.223 187.285,363.223 187.285,363.379 z" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(128,128,128)" stroke-width="0.1" >
+<path d="M182.245,366.198  A0.234857,0.234857 0 0,0 181.91,366.198 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="185.866,366.041 185.866,360.561 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(128,128,128)" stroke-width="0.1" >
+<path d="M175.222,358.831  A1.11166,1.11166 0 0,0 174.111,359.943 " />
+<path d="M174.439,363.613  A0.352286,0.352286 0 0,0 174.439,362.99 " />
+<polyline points="175.222,367.442 188.268,367.443 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<path d="M174.831,366.237  A0.782858,0.782858 0 0,0 175.614,367.02 " />
+<polyline points="187.127,366.041 187.127,360.561 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(128,128,128)" stroke-width="0.1" >
+<path d="M182.245,360.076  A0.234857,0.234857 0 0,0 181.91,360.076 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="180.311,359.919 188.235,359.919 " />
+<path d="M188.319,360.076  A0.782858,0.782858 0 0,0 187.591,359.583 " />
+<polyline points="187.591,359.583 175.614,359.583 " />
+<polyline points="174.831,360.365 174.831,366.237 " />
+<polyline points="175.614,367.02 187.591,367.02 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(128,128,128)" stroke-width="0.1" >
+<polyline points="188.278,360.076 180.221,360.076 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="176.406,366.683 188.235,366.683 " />
+<polyline points="176.776,366.041 188.374,366.041 " />
+<polyline points="179.94,360.561 188.374,360.561 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(128,128,128)" stroke-width="0.1" >
+<polyline points="188.275,366.527 176.496,366.527 " />
+<polyline points="176.686,366.198 188.275,366.198 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="183.344,366.041 183.344,360.561 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(128,128,128)" stroke-width="0.1" >
+<polyline points="180.031,360.404 188.278,360.404 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="179.562,366.041 179.562,361.217 " />
+<polyline points="178.301,366.041 178.301,363.4 " />
+<polyline points="180.823,366.041 180.823,360.561 " />
+<polyline points="182.083,366.041 182.083,360.561 " />
+<polyline points="176.211,367.02 180.505,359.583 " />
+<polyline points="184.605,366.041 184.605,360.561 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(128,128,128)" stroke-width="0.1" >
+<path d="M181.91,366.527  A0.234857,0.234857 0 0,0 182.245,366.527 " />
+<path d="M181.91,360.405  A0.234857,0.234857 0 0,0 182.245,360.405 " />
+<path d="M188.278,360.404  A0.786772,0.786772 0 0,0 188.268,358.831 " />
+<path d="M181.849,358.831  A0.352286,0.352286 0 0,0 181.671,358.669 " />
+<path d="M188.275,360.076  A0.457972,0.457972 0 0,0 188.268,359.16 " />
+<path d="M181.405,358.669  A0.352286,0.352286 0 0,0 181.226,358.831 " />
+<polyline points="175.222,358.831 188.268,358.831 " />
+<polyline points="175.222,359.16 188.268,359.16 " />
+<path d="M181.226,359.16  A0.352286,0.352286 0 0,0 181.849,359.16 " />
+<path d="M181.447,359.16  A0.187886,0.187886 0 0,0 181.629,359.16 " />
+<polyline points="174.439,366.66 174.439,359.943 " />
+<path d="M181.671,367.933  A0.352286,0.352286 0 0,0 181.849,367.771 " />
+<path d="M174.111,363.21  A0.187886,0.187886 0 0,0 174.111,363.392 " />
+<path d="M174.111,362.99  A0.352286,0.352286 0 0,0 174.111,363.613 " />
+<path d="M174.439,363.392  A0.187886,0.187886 0 0,0 174.439,363.21 " />
+<path d="M174.111,366.66  A1.11166,1.11166 0 0,0 175.222,367.771 " />
+<path d="M181.629,367.442  A0.187886,0.187886 0 0,0 181.447,367.442 " />
+<path d="M188.268,367.771  A0.786772,0.786772 0 0,0 188.278,366.198 " />
+<path d="M181.226,367.771  A0.352286,0.352286 0 0,0 181.405,367.933 " />
+<path d="M174.439,366.66  A0.782858,0.782858 0 0,0 175.222,367.442 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<path d="M187.591,367.02  A0.782858,0.782858 0 0,0 188.319,366.527 " />
+<polyline points="177.04,366.041 177.04,365.584 " />
+<path d="M175.614,359.583  A0.782858,0.782858 0 0,0 174.831,360.365 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(128,128,128)" stroke-width="0.1" >
+<polyline points="174.111,366.66 174.111,359.943 " />
+<path d="M175.222,359.16  A0.782858,0.782858 0 0,0 174.439,359.943 " />
+<path d="M181.849,367.442  A0.352286,0.352286 0 0,0 181.226,367.442 " />
+<polyline points="175.222,367.771 188.268,367.771 " />
+<path d="M188.268,367.443  A0.457972,0.457972 0 0,0 188.275,366.527 " />
+<path d="M181.405,369.029  A0.195714,0.195714 0 1,0 181.671,369.029 " />
+<polyline points="181.405,369.173 181.405,367.771 " />
+<polyline points="181.671,369.173 181.671,367.771 " />
+<path d="M181.405,369.173  A0.133086,0.133086 0 0,0 181.671,369.173 " />
+<path d="M181.671,357.573  A0.195714,0.195714 0 1,0 181.405,357.573 " />
+<polyline points="181.405,357.43 181.405,358.831 " />
+<polyline points="181.671,357.43 181.671,358.831 " />
+<path d="M181.671,357.43  A0.133086,0.133086 0 0,0 181.405,357.43 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<path d="M188.374,360.561  A0.782858,0.782858 0 0,0 188.358,360.404 " />
+<polyline points="188.374,360.561 188.374,366.041 " />
+<path d="M188.358,366.198  A0.782858,0.782858 0 0,0 188.374,366.041 " />
+<polyline points="183.716,427.059 175.653,427.059 " />
+<polyline points="187.621,420.295 175.653,420.295 " />
+<polyline points="187.251,420.937 175.653,420.937 " />
+<polyline points="184.087,426.417 175.653,426.417 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(128,128,128)" stroke-width="0.1" >
+<polyline points="175.964,426.903 183.806,426.903 " />
+<polyline points="183.996,426.574 175.964,426.574 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="186.987,420.937 186.987,421.395 " />
+<polyline points="184.465,420.937 184.465,425.762 " />
+<polyline points="183.204,420.937 183.204,426.417 " />
+<polyline points="181.943,420.937 181.943,426.417 " />
+<polyline points="180.683,420.937 180.683,426.417 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.05" >
+<text transform="matrix(-1.87886 -2.30086e-016 -2.87608e-016 2.34857 173.744 422.945)" font-size="1.28571" style="font-family: romand" >+</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="187.703,420.154 183.635,427.2 " />
+<polyline points="175.653,427.059 175.653,420.781 " />
+<polyline points="175.653,420.452 175.653,420.295 " />
+<polyline points="179.422,420.937 179.422,426.417 " />
+<polyline points="185.726,420.937 185.726,423.578 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(128,128,128)" stroke-width="0.1" >
+<path d="M176.132,426.574  A0.234857,0.234857 0 1,0 176.132,426.903 " />
+<path d="M175.964,426.574  A0.1644,0.1644 0 0,0 175.964,426.903 " />
+<path d="M181.782,420.781  A0.234857,0.234857 0 0,0 182.117,420.781 " />
+<path d="M182.117,420.452  A0.234857,0.234857 0 0,0 181.782,420.452 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="178.161,420.937 178.161,426.417 " />
+<polyline points="176.9,420.937 176.9,426.417 " />
+</g>
+<g clip-path="url(#clipId0)" fill="rgb(183,183,183)" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<path d="M176.744,423.677 176.744,423.677 174.395,424.069 174.395,423.286 z" />
+<path d="M174.395,423.599 174.395,423.756 172.047,423.756 172.047,423.599 z" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(128,128,128)" stroke-width="0.1" >
+<polyline points="167.495,421.172 167.495,427.775 " />
+<polyline points="168.216,420.452 187.531,420.452 " />
+<polyline points="187.341,420.781 168.216,420.781 " />
+<path d="M168.216,420.452  A0.720229,0.720229 0 0,0 167.495,421.172 " />
+<path d="M168.216,420.781  A0.391429,0.391429 0 0,0 167.824,421.172 " />
+<polyline points="167.824,427.775 167.824,421.172 " />
+<path d="M167.495,427.775  A0.1644,0.1644 0 1,0 167.824,427.775 " />
+<path d="M167.495,427.607  A0.234857,0.234857 0 1,0 167.824,427.607 " />
+<path d="M167.824,421.68  A0.234857,0.234857 0 0,0 167.824,421.344 " />
+<path d="M167.495,421.344  A0.234857,0.234857 0 0,0 167.495,421.68 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="179.136,420.295 179.136,419.471 " />
+<polyline points="179.136,419.471 167.394,419.471 " />
+<polyline points="167.394,419.471 167.394,428.083 " />
+<polyline points="179.136,428.083 179.136,427.059 " />
+<polyline points="52.3135,378.901 49.1821,378.901 " />
+<polyline points="52.3135,378.353 49.1821,378.353 " />
+<polyline points="52.3135,378.702 49.1821,378.702 " />
+<polyline points="52.3135,378.802 49.1821,378.802 " />
+<polyline points="52.3135,378.254 49.1821,378.254 " />
+<polyline points="52.3135,378.154 49.1821,378.154 " />
+<polyline points="49.1821,378.997 49.1821,378.058 49.1195,378.058 49.1195,378.997 49.1821,378.997 " />
+<polyline points="52.3135,378.997 52.3135,378.058 52.3762,378.058 52.3762,378.997 52.3135,378.997 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.25" >
+<polyline points="49.1821,378.528 52.3135,378.528 52.3135,378.528 53.0964,379.311 53.0964,382.442 53.0964,382.442 52.3135,383.225 49.1821,383.225 49.1821,383.225 48.3992,382.442 48.3992,379.311 48.3992,379.311 49.1821,378.528 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="950.016,419.628 957.219,419.628 " />
+<polyline points="956.357,411.408 954.973,411.408 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(128,128,128)" stroke-width="0.1" >
+<polyline points="957.219,410.112 957.219,419.628 " />
+<polyline points="950.016,414.27 950.016,419.628 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="956.357,412.582 952.939,412.582 " />
+<polyline points="956.357,413.756 950.906,413.756 " />
+<polyline points="950.877,416.105 956.357,416.105 " />
+<polyline points="956.357,414.931 950.877,414.931 " />
+<polyline points="956.357,418.454 950.877,418.454 " />
+<polyline points="956.357,417.279 950.877,417.279 " />
+<polyline points="956.357,419.628 956.357,410.609 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(128,128,128)" stroke-width="0.1" >
+<polyline points="956.671,410.428 956.671,419.628 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="950.564,419.628 956.671,419.628 " />
+<polyline points="950.877,419.628 950.877,413.773 " />
+<polyline points="957.219,410.112 950.016,414.27 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(128,128,128)" stroke-width="0.1" >
+<polyline points="950.564,413.953 950.564,419.628 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="956.905,396.925 953.774,396.925 " />
+<polyline points="953.774,401.622 956.905,401.622 " />
+<path d="M956.905,401.622  A0.782858,0.782858 0 0,0 957.688,400.839 " />
+<polyline points="957.688,400.839 957.688,397.708 " />
+<path d="M953.774,396.925  A0.782858,0.782858 0 0,0 952.991,397.708 " />
+<path d="M957.688,397.708  A0.782858,0.782858 0 0,0 956.905,396.925 " />
+<path d="M952.991,400.839  A0.782858,0.782858 0 0,0 953.774,401.622 " />
+<polyline points="952.991,397.708 952.991,400.839 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="657.462,402.013 657.462,402.796 649.634,402.013 649.634,402.796 657.462,402.013 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(255,127,0)" stroke-width="0.35" >
+<polyline points="657.462,402.405 662.942,402.405 " />
+</g>
+<g clip-path="url(#clipId0)" fill="rgb(183,183,183)" stroke="rgb(183,183,183)" stroke-width="0.15" >
+<path d="M660.098,405.577 659.498,401.976 659.498,401.976 658.898,405.577 z" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.3" >
+<polyline points="659.498,405.577 659.498,409.529 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.05" >
+<text transform="matrix(1.53391e-016 -2.50514 3.13143 1.91738e-016 658.659 408.825)" font-size="1.28571" style="font-family: romand" >-</text>
+</g>
+<g clip-path="url(#clipId0)" fill="rgb(183,183,183)" stroke="rgb(183,183,183)" stroke-width="0.15" >
+<path d="M660.098,405.577 659.498,401.976 659.498,401.976 658.898,405.577 z" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.3" >
+<polyline points="659.498,405.577 659.498,409.529 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.05" >
+<text transform="matrix(1.53391e-016 -2.50514 3.13143 1.91738e-016 658.659 408.825)" font-size="1.28571" style="font-family: romand" >-</text>
+</g>
+<g clip-path="url(#clipId0)" fill="rgb(183,183,183)" stroke="rgb(183,183,183)" stroke-width="0.15" >
+<path d="M654.695,405.928 653.494,405.928 654.095,409.529 654.095,409.529 z" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.3" >
+<polyline points="654.095,405.928 654.095,401.976 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.05" >
+<text transform="matrix(1.53391e-016 -2.50514 3.13143 1.91738e-016 653.256 404.684)" font-size="1.28571" style="font-family: romand" >-</text>
+</g>
+<g clip-path="url(#clipId0)" fill="rgb(183,183,183)" stroke="rgb(183,183,183)" stroke-width="0.15" >
+<path d="M654.695,405.928 653.494,405.928 654.095,409.529 654.095,409.529 z" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.3" >
+<polyline points="654.095,405.928 654.095,401.976 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.05" >
+<text transform="matrix(1.53391e-016 -2.50514 3.13143 1.91738e-016 653.256 404.684)" font-size="1.28571" style="font-family: romand" >+</text>
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="657.149,411.877 661.846,411.877 " />
+<polyline points="657.149,410.703 661.846,410.703 " />
+<polyline points="661.846,409.529 661.846,420.418 " />
+<polyline points="657.149,409.529 657.149,415.721 " />
+<polyline points="662.16,409.529 656.836,409.529 " />
+<polyline points="656.836,409.529 656.836,415.408 " />
+<polyline points="657.149,413.052 661.846,413.052 " />
+<polyline points="657.149,414.226 661.846,414.226 " />
+<polyline points="657.149,415.4 661.846,415.4 " />
+<polyline points="658.003,416.575 661.846,416.575 " />
+<polyline points="659.177,417.749 661.846,417.749 " />
+<polyline points="662.16,409.529 662.16,420.732 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.25" >
+<polyline points="662.16,426.611 656.836,426.611 " stroke-dasharray="0.009942,0.004971" />
+<polyline points="656.836,415.408 656.836,426.611 " stroke-dasharray="0.009942,0.004971" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="656.836,415.408 662.16,420.732 " />
+<polyline points="660.351,418.923 661.846,418.923 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.25" >
+<polyline points="662.16,420.732 662.16,426.611 " stroke-dasharray="0.009942,0.004971" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="656.836,409.529 656.836,415.408 " />
+<polyline points="651.433,409.529 651.433,415.408 " />
+<polyline points="651.746,411.877 656.443,411.877 " />
+<polyline points="651.746,410.703 656.443,410.703 " />
+<polyline points="656.443,409.529 656.443,420.418 " />
+<polyline points="651.746,409.529 651.746,415.721 " />
+<polyline points="656.756,409.529 651.433,409.529 " />
+<polyline points="651.433,409.529 651.433,415.408 " />
+<polyline points="651.746,413.052 656.443,413.052 " />
+<polyline points="651.746,414.226 656.443,414.226 " />
+<polyline points="651.746,415.4 656.443,415.4 " />
+<polyline points="652.599,416.575 656.443,416.575 " />
+<polyline points="653.774,417.749 656.443,417.749 " />
+<polyline points="656.756,409.529 656.756,420.732 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.25" >
+<polyline points="656.756,426.611 651.433,426.611 " stroke-dasharray="0.009942,0.004971" />
+<polyline points="651.433,415.408 651.433,426.611 " stroke-dasharray="0.009942,0.004971" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="651.433,415.408 656.756,420.732 " />
+<polyline points="654.948,418.923 656.443,418.923 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,191,255)" stroke-width="0.25" >
+<polyline points="656.756,420.732 656.756,426.611 " stroke-dasharray="0.009942,0.004971" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="551.15,346.431 557.413,355.825 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="557.413,346.431 551.15,355.825 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="567.434,346.431 573.697,355.825 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="573.697,346.431 567.434,355.825 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="551.15,448.985 557.413,458.379 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="557.413,448.985 551.15,458.379 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="567.434,448.985 573.697,458.379 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="573.697,448.985 567.434,458.379 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="101.295,403.976 100.356,403.976 100.356,404.039 101.295,404.039 101.295,403.976 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(255,127,0)" stroke-width="0.35" >
+<polyline points="846.131,453.056 846.131,351.753 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="855.525,451.096 846.131,351.753 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="855.525,353.714 846.131,453.056 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(255,127,0)" stroke-width="0.35" >
+<polyline points="348.234,355.042 329.445,355.042 " />
+<polyline points="348.234,449.768 329.445,449.768 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="329.445,355.042 336.53,372.902 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="336.53,372.902 348.234,402.405 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="329.445,402.405 341.149,372.902 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="341.149,372.902 348.234,355.042 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="329.445,449.768 341.149,420.265 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="341.149,420.265 348.234,402.405 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="329.445,402.405 341.149,431.908 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="341.149,431.908 348.234,449.768 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(255,127,0)" stroke-width="0.35" >
+<polyline points="806.988,326.228 761.956,321.682 716.673,320.207 " />
+<polyline points="975.303,384.978 956.119,373.286 936.163,362.962 915.57,353.976 894.472,346.248 872.982,339.692 851.189,334.222 806.988,326.228 " />
+<polyline points="975.303,384.978 1002.76,402.404 " />
+<polyline points="806.988,478.582 761.956,483.128 716.673,484.602 " />
+<polyline points="975.303,419.832 956.119,431.524 936.163,441.848 915.57,450.834 894.472,458.562 872.982,465.118 851.189,470.588 806.988,478.582 " />
+<polyline points="975.303,419.832 1002.76,402.405 " />
+<polyline points="281.336,484.605 716.673,484.602 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.25" >
+<polyline points="855.525,335.223 890.968,352.584 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="890.968,352.584 921.285,367.435 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="921.285,356.317 902.85,355.587 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="902.85,355.587 855.525,353.714 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="855.525,469.587 902.217,446.715 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="902.217,446.715 921.285,437.375 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="921.285,448.493 890.334,449.718 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+<polyline points="890.334,449.718 855.525,451.096 " stroke-dasharray="0.023486,0.011743,0.000000,0.011743" />
+</g>
+<g clip-path="url(#clipId0)" fill="rgb(183,183,183)" stroke="rgb(183,183,183)" stroke-width="0.15" >
+<path d="M954.218,423.229 953.617,419.628 953.617,419.628 953.017,423.229 z" />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.3" >
+<polyline points="953.617,423.229 953.617,427.181 " />
+</g>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(183,183,183)" stroke-width="0.05" >
+<text transform="matrix(-4.60172e-016 2.50514 -3.13143 -5.75215e-016 950.587 424.473)" font-size="1.28571" style="font-family: romand" >+</text>
+</g>
+</svg>

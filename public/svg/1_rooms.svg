@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 1024 768"
+   version="1.1"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   fill-rule="evenodd"
+   xml:space="preserve"
+   id="svg2"
+   inkscape:version="0.92.0 r15299"
+   sodipodi:docname="1_plan.svg"><metadata
+     id="metadata9300"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     id="namedview9298"
+     showgrid="false"
+     inkscape:zoom="0.86915207"
+     inkscape:cx="251.33583"
+     inkscape:cy="373.71539"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="signs-042"
+     ref="svg" /><defs
+     id="defs6"><style
+       type="text/css"
+       id="style4"><![CDATA[
+            .room {
+                fill: rgba(0,0,0,0);
+                stroke-width: 0.25;
+                stroke: yellow
+            }
+            .room
+            svg {
+                position: absolute;
+            }
+        ]]></style></defs>
+    <polygon
+     points="515.282,262.995 560.826,298.951 560.826,388.711 457.769,388.711 457.769,348.818 485.029,348.818 485.029,288.978 515.282,288.978 515.282,262.995 "
+     id="room-5002"
+     class="room n5002" />
+    <polygon
+     points="333.436,290.977 404.186,249.085 497.662,249.085 515.282,262.995 515.282,288.978 485.029,288.978 485.029,348.818 333.436,348.818 333.436,290.977 "
+     id="room-5006"
+     class="room n5006" />
+    <polygon
+     points="358.702,348.818 457.769,348.818 457.769,388.711 358.702,388.711 358.706,348.818 "
+     id="room-5004"
+     class="room n5004" />
+    <polygon
+     points="434.498,388.711 560.826,388.711 560.826,448.55 434.48,448.549 434.48,388.711 "
+     id="room-5001"
+     class="room n5001" />
+    <polygon
+     points="358.702,388.711 434.559,388.711 434.48,448.55 358.702,448.55 358.702,388.711 "
+     id="room-5007"
+     class="room n5007" />
+    <polygon
+     points="459.764,448.55 560.826,448.55 560.826,518.363 459.764,518.363 459.764,448.55 "
+     id="room-5003"
+     class="room n5003" />
+    <polygon
+     points="459.764,518.363 560.826,518.363 560.826,538.309 535.561,558.256 459.764,558.256 459.764,518.363 "
+     id="room-5101"
+     class="room n5101" />
+    <polygon
+     points="358.704,448.55 459.764,448.55 459.764,558.256 535.601,558.256 497.764,588.175 383.967,588.175 358.702,568.229 358.704,448.55 "
+     id="room-5005"
+     class="room n5005" />
+</svg>

@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Корпус и стены",
+    "file": "walls",
+    "checked": true
+  },
+
+  {
+    "title": "Внутреннее убранство",
+    "file": "inside",
+    "checked": false
+  },
+
+  {
+    "title": "Датчики",
+    "isOpen": false,
+    "items": [
+      {
+        "title": "Ручной извещатель",
+        "file": "hand",
+        "checked": false
+      },
+      {
+        "title": "Температурный датчик",
+        "file": "temperature",
+        "checked": false
+      },
+      {
+        "title": "Комбинированный датчик",
+        "file": "combined",
+        "checked": false
+      }
+    ]
+  },
+
+  {
+    "title": "Интерактивность",
+    "noImage": true,
+    "isOpen": false,
+    "items": [
+      {
+        "title": "Помещения",
+        "json": "rooms-points",
+        "checked": false
+      }
+    ]
+  }
+]

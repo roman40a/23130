@@ -1,0 +1,38 @@
+.box-arrow {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 9;
+    height: 100%;
+    width: 50px;
+    opacity: 0;
+    cursor: pointer;
+}
+
+.arrow {
+    position: absolute;
+    top: calc(50% - 100px);
+    width: 100%;
+    padding: 10px;
+}
+
+.box-arrow:hover {
+    opacity: .5;
+}
+
+.toggle-panel {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 8;
+    transition-property: width;
+    transition-duration: .2s;
+    height: 100%;
+    width: 0;
+    opacity: .5;
+    color: rgb(255,255,0);
+    background-color: black;
+    margin-left: 50px;
+}
+
+
