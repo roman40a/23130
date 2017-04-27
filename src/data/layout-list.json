@@ -8,12 +8,14 @@
   {
     "title": "Внутреннее убранство",
     "file": "inside",
-    "checked": false
+    "checked": false,
+    "enable": false
   },
 
   {
     "title": "Датчики",
     "isOpen": false,
+    "enable": false,
     "items": [
       {
         "title": "Ручной извещатель",
@@ -37,6 +39,7 @@
     "title": "Интерактивность",
     "noImage": true,
     "isOpen": false,
+    "enable": true,
     "items": [
       {
         "title": "Помещения",
