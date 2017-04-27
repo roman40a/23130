@@ -30,14 +30,14 @@ export default class LayoutGroupList extends Component {
                                 )
                             }
 
-                            return <CheckboxGroup
+                            return layoutGroup.enable?<CheckboxGroup
                             key={Math.random()}
                             index={layoutGroup.index}
                             layoutGroup={layoutGroup}
                             isOpen={isOpen}
                             checked={checked}
                             title={layoutGroup.title}
-                            toggleChecked={toggleCheckedLayout}/>
+                            toggleChecked={toggleCheckedLayout}/>:false
                         }
                     )
                 }

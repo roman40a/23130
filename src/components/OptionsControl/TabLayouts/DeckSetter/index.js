@@ -32,7 +32,7 @@ export default class DeckSetter extends Component {
                     onChange={this.handleChange.bind(this, setDeckModel)}
                     componentClass='select'
                     placeholder='Выберите палубу' autoFocus={true}>
-                    {deckList.map((deckObj)=><option key={Math.random()} value={deckObj.index}>{deckObj.title}</option>)}
+                    {deckList.map((deckObj)=>deckObj.enable?<option key={Math.random()} value={deckObj.index}>{deckObj.title}</option>:false)}
                 </FormControl>
             </FormGroup>
         )
