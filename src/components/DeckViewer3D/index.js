@@ -13,7 +13,7 @@ class DeckViewer3D extends React.Component {
         super(props, context);
         this.state = {
             cameraRotation: new THREE.Euler(),
-            cameraPosition: new THREE.Vector3(0, 5, 0),
+            cameraPosition: new THREE.Vector3(0, .8, 0),
             scenePosition: new THREE.Vector3(0, 0, 0),
             mouseInput: null,
             hoveredMesh: null,
@@ -114,7 +114,7 @@ class DeckViewer3D extends React.Component {
         } = this.props;
 
         return (
-            <div ref='container'>
+            <div ref='container' className='3DViewer'>
                 <React3
                     width={width}
                     height={height}

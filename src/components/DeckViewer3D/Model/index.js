@@ -4,7 +4,7 @@ import * as THREE from 'three';
 import PureRenderMixin from 'react/lib/ReactComponentWithPureRenderMixin';
 
 let models = []
-const quantityModel = 5
+const quantityModel = 10
 for (let i = 0; i < quantityModel; i++) {
     models[i] = require(`./models/${i + 1}.json`)
 }
@@ -45,6 +45,8 @@ export default class Model extends Component {
             }
         )
 
+        const position = new THREE.Vector3(-.3, 0, 0)
+
         if ( deck == 0 ) {
             return (
                 <group>
@@ -63,7 +65,7 @@ export default class Model extends Component {
                                             console.log('Click!')
                                         }}
                                         name={`mesh${index + 1}`}
-                                        position={new THREE.Vector3(1, 0, 0)}>
+                                        position={position}>
                                         <geometry faceVertexUvs={geometry.faceVertexUvs} faces={geometry.faces} vertices={geometry.vertices}/>
                                         <meshStandardMaterial  transparent={true} opacity={1} color={basicColor} emissive={basicEmissive} />
                                     </mesh>
@@ -86,7 +88,7 @@ export default class Model extends Component {
                             console.log('Click!')
                         }}
                         name={'mesh1'}
-                        position={new THREE.Vector3(1, 0, 0)}>
+                        position={position}>
                         <geometry faceVertexUvs={geometry.faceVertexUvs} faces={geometry.faces} vertices={geometry.vertices}/>
                         <meshStandardMaterial  transparent={true} opacity={1} color={basicColor} emissive={basicEmissive} />
                     </mesh>

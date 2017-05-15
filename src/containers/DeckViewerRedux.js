@@ -13,7 +13,7 @@ class DeckViewerRedux extends Component {
         return (
             context === '3d' ?
                 <DeckViewer3D
-                    deck={deck}/> :
+                    deck={deck}/>:
                 <DeckViewer2D
                     deck={deck} asiGroupList={asiGroupList}
                     layoutGroupList={layoutGroupList} rooms={rooms}

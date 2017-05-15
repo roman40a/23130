@@ -37,21 +37,21 @@
   {
     "index": 7,
     "title": "Главная палуба палуба",
-    "enable": false
+    "enable": true
   },
   {
     "index": 8,
     "title": "Платформа 6900 мм от ОП",
-    "enable": false
+    "enable": true
   },
   {
     "index": 9,
     "title": "Настил второго дная",
-    "enable": false
+    "enable": true
   },
   {
     "index": 10,
     "title": "Днище",
-    "enable": false
+    "enable": true
   }
 ]
