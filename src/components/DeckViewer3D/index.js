@@ -13,7 +13,7 @@ class DeckViewer3D extends React.Component {
         super(props, context);
         this.state = {
             cameraRotation: new THREE.Euler(),
-            cameraPosition: new THREE.Vector3(0, .8, 0),
+            cameraPosition: new THREE.Vector3(0, .2, .8),
             scenePosition: new THREE.Vector3(0, 0, 0),
             mouseInput: null,
             hoveredMesh: null,

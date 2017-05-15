@@ -61,6 +61,11 @@ export default class Model extends Component {
                                         onMouseEnter={(event, intersection) => {
                                             console.log('onMouseEnter: ' + intersection.object.name)
                                         }}
+                                        onMouseLeave={(event, intersection) => {
+                                            console.log('onMouseLeave: ')
+                                            console.log(event)
+                                            console.log(intersection)
+                                        }}
                                         onClick={() => {
                                             console.log('Click!')
                                         }}

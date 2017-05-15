@@ -1,4 +1,4 @@
-const initialState = 1
+const initialState = 0
 
 export default function asiGroupList(state = initialState, action) {
     switch (action.type){

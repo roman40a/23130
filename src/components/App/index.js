@@ -22,8 +22,8 @@ class ASI extends Component {
                 <Row style={{width: width}}>
                     <Col md={9} style={{backgroundColor:'red', ...colStyle}}>
                         <DeckViewerRedux/>
-                        <div style={{position: 'fixed', bottom: 25, right: 250, height: 100, width: 100}}>
-                            <DeckViewer2 deck={2}/>
+                        <div style={{...colStyle, position: 'fixed', top: 25, left: 'calc(100% - 600px)', height: 100, width: 100}}>
+                            <DeckViewer2 deck={0}/>
                         </div>
                         <Recommendation height={height}/>
                     </Col>
