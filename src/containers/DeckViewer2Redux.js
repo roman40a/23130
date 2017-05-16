@@ -1,51 +1,49 @@
 import React, {Component} from 'react'
 import { bindActionCreators } from 'redux'
 import { connect } from 'react-redux'
-import {toggleCheckedRoom} from '../actions'
-import DeckViewer2D from '../components/DeckViewer2D'
-import DeckViewer3D from '../components/DeckViewer3D-2'
-
-import {filterElementGroupList} from '../util'
+import {setDeckModel, setSecondDeckModel} from '../actions'
+import DeckViewer2 from '../components/DeckViewer3D-2'
 
 class DeckViewerRedux extends Component {
+
+    handleClick(deck, secondDeck) {
+        const {setDeckModel, setSecondDeckModel } = this.props
+        setSecondDeckModel(deck);
+        setDeckModel(secondDeck)
+    }
+
     render() {
-        const { deck, context, asiGroupList, layoutGroupList, rooms, fetching, svgDoc, toggleCheckedRoom } = this.props
+        const { deck, secondDeck } = this.props
+        const bothSizes = 200
+        const windowStyle ={
+            position: 'fixed', top: 25, right: 505,
+            height: bothSizes,
+            width: bothSizes,
+            paddingLeft: 0, paddingRight:0,
+            borderStyle: 'ridge',
+            borderWidth: 5,
+            borderColor: '#666'
+        }
         return (
-            context === '3d' ?
-                <DeckViewer3D
-                    deck={deck}/>:
-                <DeckViewer2D
-                    deck={deck} asiGroupList={asiGroupList}
-                    layoutGroupList={layoutGroupList} rooms={rooms}
-                    fetching={fetching} svgDoc={svgDoc} toggleCheckedRoom={toggleCheckedRoom}/>
+            <div style={windowStyle} onDoubleClick={this.handleClick.bind(this, deck, secondDeck)}>
+                <DeckViewer2 deck={secondDeck}/>
+            </div>
         )
     }
 }
 
 const mapStateToProps = (state) => {
-    const deck = state.model.deck
-    const context = state.model.context
-    const filter = state.asi.filter
-    const asiGroupList = state.asi.items
-    const filteredList = filterElementGroupList(
-        asiGroupList, deck, filter.value
-    )
-
-    const layoutGroupList = state.model.layouts
+    const {deck, secondDeck} = state.model
     return {
-        deck: deck,
-        context: context,
-        asiGroupList: filteredList,
-        layoutGroupList: layoutGroupList,
-        fetching: state.model.layouts.fetching,
-        svgDoc: state.model.layouts.svgDoc,
-        rooms: state.rooms
+        secondDeck,
+        deck
     }
 }
 
 function mapDispatchToProps(dispatch) {
     return {
-        toggleCheckedRoom: bindActionCreators(toggleCheckedRoom, dispatch)
+        setSecondDeckModel: bindActionCreators(setSecondDeckModel, dispatch),
+        setDeckModel: bindActionCreators(setDeckModel, dispatch)
     }
 }
 

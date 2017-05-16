@@ -33,6 +33,13 @@ export const setDeckModel = (deck) => {
     }
 }
 
+export const setSecondDeckModel = (deck) => {
+    return {
+        type: 'SET_SECOND_DECK_MODEL',
+        payload: deck
+    }
+}
+
 export const toggleCheckedLayout = (index, checked) => {
     // return {
     //     type: 'TOGGLE_CHECKED_LAYOUT_MODEL',

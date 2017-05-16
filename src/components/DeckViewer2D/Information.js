@@ -13,9 +13,6 @@ export default class Information extends Component {
             bottom: 10,
             right: 10,
             width: 'calc(100% - 20px)',
-
-
-
             opacity: .7,
             backgroundColor: 'black',
             borderRadius: 5,

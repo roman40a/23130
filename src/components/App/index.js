@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import {Grid, Row, Col} from 'react-bootstrap'
 import Dimensions from 'react-dimensions'
 import DeckViewerRedux from '../../containers/DeckViewerRedux'
-import DeckViewer2 from '../DeckViewer3D-2'
+import DeckViewer2Redux from '../../containers/DeckViewer2Redux'
 import Recommendation from '../Recommendation'
 import OptionsControl from '../OptionsControl'
 import './bootstrap.css'
@@ -22,9 +22,7 @@ class ASI extends Component {
                 <Row style={{width: width}}>
                     <Col md={9} style={{backgroundColor:'red', ...colStyle}}>
                         <DeckViewerRedux/>
-                        <div style={{...colStyle, position: 'fixed', top: 25, left: 'calc(100% - 600px)', height: 100, width: 100}}>
-                            <DeckViewer2 deck={0}/>
-                        </div>
+                        <DeckViewer2Redux/>
                         <Recommendation height={height}/>
                     </Col>
                     <Col md={3} style={{backgroundColor:'white', ...colStyle}}>
@@ -35,5 +33,6 @@ class ASI extends Component {
         );
     }
 }
+
 
 export default Dimensions()(ASI)

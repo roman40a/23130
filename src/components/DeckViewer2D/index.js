@@ -1,44 +1,8 @@
-import React from 'react';
-import ReactDOM from 'react-dom'
+import React, {PropTypes, Component} from 'react';
+import CircleSVG from './circleSVG'
 import {ReactSVGPanZoom} from 'react-svg-pan-zoom';
 import Dimensions from 'react-dimensions'
 import Information from './Information'
-
-class CircleSVG extends React.Component {
-    render() {
-        const [x, y] = this.props.position
-        const [begin, dur, from, to] = [.5, 1, 0, 30]
-        return (
-            <g>
-                <circle key={Math.random()} cx={x} cy={y} r='1' style={{stroke:'#f00', fill:'none', strokeWidth: '2px'}}/>
-                <circle key={Math.random()} cx={x} cy={y} r='0' style={{stroke:'#f00', fill:'none', strokeWidth: '2px'}}>
-                    <animate
-                        attributeName='r'
-                        begin={0}
-                        dur={dur}
-                        from={from}
-                        to={to}
-                        repeatCount='indefinite'
-                    />
-                    <animate attributeType='CSS' attributeName='opacity'
-                             from={1} to={0} begin={0} dur={dur} repeatCount='indefinite' />
-                </circle>
-                <circle key={Math.random()} cx={x} cy={y} r='0' style={{stroke:'#f00', fill:'none', strokeWidth: '2px'}}>
-                    <animate
-                        attributeName='r'
-                        begin={begin}
-                        dur={dur}
-                        from={from}
-                        to={to}
-                        repeatCount='indefinite'
-                    />
-                    <animate attributeType='CSS' attributeName='opacity'
-                             from={1} to={0} begin={begin} dur={dur} repeatCount='indefinite' />
-                </circle>
-            </g>
-        );
-    }
-}
 
 function noInRects(rects, position) {
     let result = true
@@ -50,7 +14,7 @@ function noInRects(rects, position) {
     return result
 }
 
-class PlaneSVG extends React.Component {
+class PlaneSVG extends Component {
     constructor(props, context) {
         super(props, context);
         this.Viewer = null;
@@ -148,6 +112,7 @@ class PlaneSVG extends React.Component {
                                 (layout) => {
                                     const checked = layout.checked
                                     const data = require(`../../data/${layout["json"]}.json`)
+                                    console.log(layout, layout["json"])
                                     const roomsPolygons = data[deck - 1].items.map(
                                         (room) => {
                                             if (!room.path) {
@@ -165,6 +130,7 @@ class PlaneSVG extends React.Component {
                                                 const index = room.index
                                                 const roomPolygon = (
                                                     <path
+                                                        key={Math.random()}
                                                         d={room.points}
                                                         style={
                                                             {
@@ -230,7 +196,7 @@ class PlaneSVG extends React.Component {
                         <svg viewBox='0 0 1024 768'>
                             {
                                 rects.map(
-                                    (rect) => <CircleSVG position={rect} />
+                                    (rect) => <CircleSVG key={Math.random()} x={rect[0]} y={rect[1]} />
                                 )
                             }
                         </svg>
@@ -238,7 +204,7 @@ class PlaneSVG extends React.Component {
                         {
                             interactive.map(
                                 (layout) => (
-                                    <svg viewBox='0 0 1024 768'>
+                                    <svg key={Math.random()} viewBox='0 0 1024 768'>
                                         {layout}
                                     </svg>
                                 )
@@ -246,7 +212,7 @@ class PlaneSVG extends React.Component {
                         }
                     </svg>
                 </ReactSVGPanZoom>
-                <Information deck={this.props.deck} obj={this.state.obj}/>
+                <Information deck={deck} obj={this.state.obj}/>
             </div>
         );
     }
@@ -254,3 +220,74 @@ class PlaneSVG extends React.Component {
 
 export default Dimensions()(PlaneSVG)
 
+PlaneSVG.propTypes = {
+    asiGroupList: PropTypes.arrayOf(
+        PropTypes.shape({
+            "index": PropTypes.number,
+            "title": PropTypes.string,
+            "mass": PropTypes.number,
+            "items": PropTypes.arrayOf(
+                PropTypes.shape({
+                    "index": PropTypes.string,
+                    "checked": PropTypes.bool,
+                    "deck": PropTypes.number,
+                    "position": PropTypes.arrayOf(PropTypes.number)
+                })
+            )
+        })
+    ),
+    layoutGroupList: PropTypes.arrayOf(
+        PropTypes.oneOfType([
+            PropTypes.shape({
+                "index": PropTypes.number,
+                "file": PropTypes.string,
+                "checked": PropTypes.bool,
+                "enable": PropTypes.bool
+            }),
+            PropTypes.shape({
+                "index": PropTypes.number,
+                "enable": PropTypes.bool,
+                "items": PropTypes.arrayOf(
+                    PropTypes.shape({
+                        "index": PropTypes.string,
+                        "file": PropTypes.string,
+                        "checked": PropTypes.bool
+                    })
+                )
+            }),
+            PropTypes.shape({
+                "index": PropTypes.number,
+                "noImage": PropTypes.bool,
+                "enable": PropTypes.bool,
+                "items": PropTypes.arrayOf(
+                    PropTypes.shape({
+                        "index": PropTypes.string,
+                        "title": PropTypes.string,
+                        "json": PropTypes.string,
+                        "checked": PropTypes.bool
+                    })
+                )
+            })
+        ])
+    ),
+    fetching: PropTypes.bool,
+    svgDoc: PropTypes.any,
+    toggleCheckedRoom: PropTypes.func,
+    deck: PropTypes.number,
+    rooms: PropTypes.shape({
+        "filter": PropTypes.any,
+        "items": PropTypes.arrayOf(
+            PropTypes.shape({
+                "index": PropTypes.string,
+                "title": PropTypes.string,
+                "deck": PropTypes.number,
+                "checked": PropTypes.bool,
+                "position": PropTypes.shape({
+                    "from": PropTypes.string,
+                    "to": PropTypes.string,
+                    "side": PropTypes.string
+                })
+            })
+        )
+    })
+}
