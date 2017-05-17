@@ -107,14 +107,17 @@ class DeckViewer3D extends React.Component {
     }
 
     render() {
-        const {
+        let {
             containerWidth: width,
             containerHeight: height,
             deck
         } = this.props;
 
+        width -= 10
+        height -= 10
+
         return (
-            <div ref='container' className='3DViewer'>
+            <div style={{height: height, width: width}} ref='container' className='3DViewer'>
                 <React3
                     width={width}
                     height={height}
@@ -125,7 +128,7 @@ class DeckViewer3D extends React.Component {
                     sortObjects={false}
                     shadowMapEnabled
                     shadowMapType={THREE.PCFShadowMap}
-                    clearColor={0xf0f0f0}
+                    clearColor={0xa0a0a0}
 
                 >
                     <module
@@ -158,3 +161,6 @@ class DeckViewer3D extends React.Component {
 }
 
 export default Dimensions()(DeckViewer3D)
+// export default DeckViewer3D
+
+

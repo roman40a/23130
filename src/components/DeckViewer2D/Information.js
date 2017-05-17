@@ -1,4 +1,4 @@
-import React, {Component} from 'react'
+import React, {Component, PropTypes} from 'react'
 import {Row, Col} from 'react-bootstrap'
 
 import deckList from '../../data/decks-title.json'
@@ -50,3 +50,10 @@ export default class Information extends Component {
     }
 }
 
+Information.propTypes = {
+    deck: PropTypes.number,
+    obj: PropTypes.oneOfType([
+        PropTypes.number,
+        PropTypes.string
+    ])
+}

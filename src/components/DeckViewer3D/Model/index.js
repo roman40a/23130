@@ -1,4 +1,4 @@
-import React, {Component} from 'react'
+import React, {Component, PropTypes} from 'react'
 import * as THREE from 'three';
 // import MouseInput from '../inputs/MouseInput';
 import PureRenderMixin from 'react/lib/ReactComponentWithPureRenderMixin';
@@ -17,35 +17,45 @@ export default class Model extends Component {
     constructor(props, context){
         super(props, context);
         this.cubes = this.props.cubes
+        this.state = {
+            intersections: []
+        }
     }
 
     shouldComponentUpdate = PureRenderMixin.shouldComponentUpdate;
 
     render() {
         const {deck} = this.props
-        let instance = models.map(
-            (model, index) => {
-                const geometry = loader.parse(model).geometry
-                return (
-                    <mesh
-                        key={Math.random()}
-                        ref={(mesh) => { this.cubes[index] = mesh }}
-                        onMouseEnter={(event, intersection) => {
-                            console.log('onMouseEnter: ' + intersection.object.name)
-                        }}
-                        onClick={() => {
-                            console.log('Click!')
-                        }}
-                        name={`mesh${index + 1}`}
-                        position={new THREE.Vector3(1, 0, 0)}>
-                        <geometry faceVertexUvs={geometry.faceVertexUvs} faces={geometry.faces} vertices={geometry.vertices}/>
-                        <meshStandardMaterial  transparent={true} opacity={1} color={basicColor} emissive={basicEmissive} />
-                    </mesh>
-                )
-            }
-        )
+        // let instance = models.map(
+        //     (model, index) => {
+        //         const geometry = loader.parse(model).geometry
+        //         return (
+        //             <mesh
+        //                 key={Math.random()}
+        //                 ref={(mesh) => { this.cubes[index] = mesh }}
+        //                 onMouseEnter={(event, intersection) => {
+        //                     console.log('onMouseEnter: ' + intersection.object.name)
+        //                 }}
+        //                 onClick={() => {
+        //                     console.log('Click!')
+        //                 }}
+        //                 name={`mesh${index + 1}`}
+        //                 position={new THREE.Vector3(1, 0, 0)}>
+        //                 <geometry faceVertexUvs={geometry.faceVertexUvs} faces={geometry.faces} vertices={geometry.vertices}/>
+        //                 <meshStandardMaterial  transparent={true} opacity={1} color={basicColor} emissive={basicEmissive} />
+        //             </mesh>
+        //         )
+        //     }
+        // )
 
         const position = new THREE.Vector3(-.3, 0, 0)
+        const {intersections} = this.state
+        let activeName = ''
+        if (intersections) {
+            const lastIntersection = intersections[intersections.length - 1]
+            activeName = lastIntersection.object.name
+        }
+
 
         if ( deck == 0 ) {
             return (
@@ -54,12 +64,15 @@ export default class Model extends Component {
                         models.map(
                             (model, index) => {
                                 const geometry = loader.parse(model).geometry
+                                const condition = (activeName.slice(4) - 1) == index
                                 return (
                                     <mesh
                                         key={Math.random()}
                                         ref={(mesh) => { this.cubes[index] = mesh }}
                                         onMouseEnter={(event, intersection) => {
                                             console.log('onMouseEnter: ' + intersection.object.name)
+                                            this.setState((prevState) => ({intersections: prevState.intersections.concat(intersection)}))
+                                            console.log(this.state.intersections)
                                         }}
                                         onMouseLeave={(event, intersection) => {
                                             console.log('onMouseLeave: ')
@@ -72,7 +85,7 @@ export default class Model extends Component {
                                         name={`mesh${index + 1}`}
                                         position={position}>
                                         <geometry faceVertexUvs={geometry.faceVertexUvs} faces={geometry.faces} vertices={geometry.vertices}/>
-                                        <meshStandardMaterial  transparent={true} opacity={1} color={basicColor} emissive={basicEmissive} />
+                                        <meshStandardMaterial  transparent={true} opacity={1} color={(condition)?basicColor:'#fff'} emissive={basicEmissive} />
                                     </mesh>
                                 )
                             })
@@ -101,4 +114,8 @@ export default class Model extends Component {
             );
         }
     }
+}
+
+Model.propTypes = {
+    deck: PropTypes.number
 }

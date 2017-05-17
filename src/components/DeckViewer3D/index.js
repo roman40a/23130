@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {PropTypes, Component} from 'react';
 import React3 from 'react-three-renderer';
 import * as THREE from 'three';
 import MouseInput from './inputs/MouseInput';
@@ -7,7 +7,7 @@ import Dimensions from 'react-dimensions'
 import './controls/orbit';
 import Model from './Model'
 
-class DeckViewer3D extends React.Component {
+class DeckViewer3D extends Component {
 
     constructor(props, context) {
         super(props, context);
@@ -48,6 +48,8 @@ class DeckViewer3D extends React.Component {
         // const controls = new TrackballControls(camera, canvas);
         const controls = new THREE.OrbitControls(camera, canvas);
         this.controls = controls;
+        console.log('HELOOOOOOOOOOO!!!',this.controls)
+
         this.controls.addEventListener('change', this._onTrackballChange);
         console.log(THREE)
     }
@@ -103,6 +105,7 @@ class DeckViewer3D extends React.Component {
         }
 
         // this.stats.update();
+        console.log(this.controls)
         this.controls.update();
     }
 
@@ -158,3 +161,7 @@ class DeckViewer3D extends React.Component {
 }
 
 export default Dimensions()(DeckViewer3D)
+
+DeckViewer3D.propTypes = {
+    deck: PropTypes.number
+}

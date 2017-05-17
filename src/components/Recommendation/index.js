@@ -28,12 +28,11 @@ export default class Recommendation extends Component {
                         <img src={open?'/img/arrow-back.svg':'/img/arrow.svg'}/>
                     </div>
                 </div>
-                <div className='toggle-panel' style={{width: open?800:0}}>
+                <div className='toggle-panel' style={{width: open?(innerWidth / 3 * 2):0}}>
                     {open?<TextExample/>:''}
                 </div>
             </div>
         )
     }
 }
-
 
